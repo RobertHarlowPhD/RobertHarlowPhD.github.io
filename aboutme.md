@@ -1,16 +1,16 @@
 ---
-layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+layout: home
+title: "About Me"
+permalink: /aboutme/
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am in the final year of my PhD researching predictive social perception within autism. I am currently in the exciting period writing up my results, and look forward to producing publications that I can present around the world. Outside of my project, I also have avid interests in emotion analytics, criminal and forensic psychology,  psychotherapy, and the open science movement. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Alongside my research, I also mark work on the Foundation degree and BSc Psychology assignments, of which I also teach on some modules. I run seminars and workshops focusing on a variety of different approaches in Psychology, while helping students equip vital skills in an easy to digest way.
+In addition, I am the co-organizer of the ReproducibiliTea journal club as a part of my role as Local Network Lead for the UK Reproducibility Network (UKRN) at University of Plymouth. This club promotes and discusses the importance of open and reproducible research through bi-weekly meetings, engaging both staff and research students.
 
-What else do you need?
+Outside of work, I am a professional storm chaser for UK Weather Chase, with skills in reading radar and computer model outputs. I also enjoy making music, and engaging with the fire and flow arts community as a fire spinner. 
 
-### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
+
