@@ -5,7 +5,7 @@ permalink: /
 ---
 <img src="/assets/img/Me.PNG" alt="Robert Harlow" width="150" style="display: block; margin-left: auto; margin-right: auto; border-radius: 50%;">
 
-Note - this website is being updated, thank you for your patience
+Note - this website is being updated, thank you for your patience,
 
 I am in the final year of my PhD researching predictive social perception within autism. I am currently in the exciting period writing up my results, and look forward to producing publications that I can present around the world. Outside of my project, I also have avid interests in emotion analytics, criminal and forensic psychology,  psychotherapy, and the open science movement. 
 
