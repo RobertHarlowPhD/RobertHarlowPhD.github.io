@@ -8,10 +8,11 @@ Started in early 2018 at the University of Oxford, ReproducibiliTea has now spre
 Below, you will find a blog outlining the latest ReproducibiliTea journal club sessions. You can click on the following session dropdowns to learn about what we discussed. So stick the kettle on, and enjoy!
 
 <p>
-  <a class="btn btn-secondary" data-toggle="collapse" href="#session1" role="button" aria-expanded="false" aria-controls="session1">
+ <h3>
+  <a data-toggle="collapse" href="#session1" role="button" aria-expanded="false" aria-controls="session1">
     19/10/23 – Easing Into Open Science
   </a>
-</p>
+</h3>
 <div class="collapse" id="session1">
   <div class="card card-body">
 
@@ -32,14 +33,15 @@ Below, you will find a blog outlining the latest ReproducibiliTea journal club s
 
 </div>
 </div>
+
 <p>
-  <a class="btn btn-secondary" data-toggle="collapse" href="#session2" role="button" aria-expanded="false" aria-controls="session1">
-    07/12/23 - Writing Empirical Articles: Transparency, Reproducibility, Clarity, and Memorability
+ <h3>
+  <a data-toggle="collapse" href="#session2" role="button" aria-expanded="false" aria-controls="session2">
+    07/12/23 - Writing Empirical Articles: Transparency, Reproducibility, Clarity, and Memorabilitye
   </a>
-</p>
+</h3>
 <div class="collapse" id="session1">
   <div class="card card-body">
-
   <h4><em>‘‘Writing Empirical Articles: Transparency, Reproducibility, Clarity, and Memorability’. Paper: Here’</em></h4>
   <p>
   <strong>PDF:</strong> <a href="https://journals.sagepub.com/doi/full/10.1177/2515245918754485" target="_blank" rel="noopener">Here</a>
