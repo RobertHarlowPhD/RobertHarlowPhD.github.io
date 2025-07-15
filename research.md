@@ -8,7 +8,7 @@ My thesis investigates how predictive perception, motor coordination, and neurot
 
 Firstly, I investigated how spoken intentions and visual evidence guide predictive social perception. Across four experiments, results supported a dual-process model whereby top-down expectations shape early perception but are overridden by visual input once motion begins. This led to the ‘kinematic dominance hypothesis’, suggesting motion cues dominate perception once movement begins due to their higher precision.
 
-Secondly, I used high-resolution active motion capture to analyse autistic motor coordination. Autistic participants showed differences in speed and amplitude of motion during complex tasks. These differences correlated with communication and camouflaging traits, suggesting motor differences may influence how autistic actions are interpreted in everyday contexts.
+Secondly, I used high-resolution active motion capture to analyse autistic motor coordination. Autistic participants showed differences in speed and amplitude of motion during complex tasks when compared to non-autistic. These differences correlated with communication and camouflaging traits, suggesting motor differences may influence how autistic actions are interpreted in everyday contexts, with emphasis on differences in movment in achieving task goals, not 'deficits in ability'.
 
 Finally, I tested the double empathy problem through predictive perception and diagnostic framing. Non-autistic participants altered perception when told the actor was autistic, despite identical kinematics. Yet, autistic participants showed stable perception regardless of actor neurotype. These findings bridge predictive perception and the double empathy problem. 
 
