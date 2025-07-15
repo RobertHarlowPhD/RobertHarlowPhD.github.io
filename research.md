@@ -3,7 +3,7 @@ layout: page
 title: "Current Research"
 permalink: /research/
 - 
-#heading1 My PhD thesis
+#My PhD thesis
 My thesis investigates how predictive perception, motor coordination, and neurotype differences influences social perception in autism. It explores how these mechanisms contribute to social difficulties faced by autistic people, through the lens of the double empathy problem and second-person neuroscience.
 Chapter 2 examined how spoken intentions and visual evidence guide predictive social perception. Across four experiments, results supported a dual-process model whereby top-down expectations shape early perception but are overridden by visual input once motion begins. This led to the ‘kinematic dominance hypothesis’, suggesting motion cues dominate perception once movement begins due to their higher precision.
 Chapter 3 used high-resolution active motion capture to analyse autistic motor coordination. Autistic participants showed differences in speed and amplitude of motion during complex tasks. These differences correlated with communication and camouflaging traits, suggesting motor differences may influence how autistic actions are interpreted in everyday contexts.
