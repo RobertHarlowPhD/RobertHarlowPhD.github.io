@@ -1,3 +1,5 @@
-strong, a {
-  display: inline;
+strong, strong + a {
+  display: inline !important;
+  white-space: nowrap;
+  margin-right: 0.5em; /* spacing between PDF: and Here */
 }
