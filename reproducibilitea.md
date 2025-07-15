@@ -37,7 +37,7 @@ Below, you will find a blog outlining the latest ReproducibiliTea journal club s
 <p>
  <h3>
   <a data-toggle="collapse" href="#session2" role="button" aria-expanded="false" aria-controls="session2">
-    07/12/23 - Writing Empirical Articles: Transparency, Reproducibility, Clarity, and Memorabilitye
+    07/12/23 - Writing Empirical Articles: Transparency, Reproducibility, Clarity, and Memorability
   </a>
 </h3>
 <div class="collapse" id="session1">
