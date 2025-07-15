@@ -24,7 +24,8 @@ Below, you will find a blog outlining the latest ReproducibiliTea journal club s
 <br><br>
 
   <h4>Topic B – <em>‘Some reasons to use R - A discussion on R for statistical analysis’</em></h4>
-  <strong>Website:</strong> <a href="https://www.andywills.info/rminr/why-r-student.html" target="_blank" rel="noopener">Here</a><br>
+  <strong>Website:</strong> <a href="https://www.andywills.info/rminr/why-r-student.html" target="_blank" rel="noopener">Here</a>
+  <br>
   This website post by Andy Wills provides some useful reading on why using R is beneficial for research. While being free, reproducible, and with open access coding; the software provides a considerable amount of complimentary tools for the Open Science movement. However, recent discussions of student satisfaction here in Plymouth elucidate that the complexity of learning to code may act as a barrier to science for psychologists starting out, especially those who are not interested in progressing towards research based careers. Yet, the skills acquired from such are invaluable to an ever advancing society and help facilitate reproducible data. Our session explores this, while comparing other statistical analysis tools.
 
 </div>
