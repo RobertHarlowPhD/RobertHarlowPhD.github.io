@@ -40,8 +40,10 @@ Below, you will find a blog outlining the latest ReproducibiliTea journal club s
     07/12/23 - Writing Empirical Articles: Transparency, Reproducibility, Clarity, and Memorability
   </a>
 </h3>
-<div class="collapse" id="session1">
+<div class="collapse" id="session2">
   <div class="card card-body">
+
+   
   <h4><em>‘‘Writing Empirical Articles: Transparency, Reproducibility, Clarity, and Memorability’. Paper: Here’</em></h4>
   <p>
   <strong>PDF:</strong> <a href="https://journals.sagepub.com/doi/full/10.1177/2515245918754485" target="_blank" rel="noopener">Here</a>
