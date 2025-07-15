@@ -7,7 +7,7 @@ permalink: /
 
 Note - this website is being updated, thank you for your patience.
 
-I am in the final year of my PhD researching predictive social perception within autism. I am currently in the exciting period writing up my results, and look forward to producing publications that I can present around the world. Outside of my project, I also have avid interests in emotion analytics, criminal and forensic psychology,  psychotherapy, and the open science movement. 
+I am in the final year of my PhD researching predictive social perception within autism. As an autistic person, this project is very personal to me. I am currently in the exciting period of awating my viva defence, and look forward to producing publications that I can present around the world. Outside of my project, I also have avid interests in emotion analytics, criminal and forensic psychology,  psychotherapy, and the open science movement. 
 
 Alongside my research, I also mark work on the Foundation degree and BSc Psychology assignments, of which I also teach on some modules. I run seminars and workshops focusing on a variety of different approaches in Psychology, while helping students equip vital skills in an easy to digest way.
 
