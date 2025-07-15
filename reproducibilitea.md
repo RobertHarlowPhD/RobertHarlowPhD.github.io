@@ -43,7 +43,6 @@ Below, you will find a blog outlining the latest ReproducibiliTea journal club s
 <div class="collapse" id="session2">
   <div class="card card-body">
 
-   
   <h4><em>‘‘Writing Empirical Articles: Transparency, Reproducibility, Clarity, and Memorability’. Paper: Here’</em></h4>
   <p>
   <strong>PDF:</strong> <a href="https://journals.sagepub.com/doi/full/10.1177/2515245918754485" target="_blank" rel="noopener">Here</a>
@@ -51,6 +50,28 @@ Below, you will find a blog outlining the latest ReproducibiliTea journal club s
   <br>
   This session focused on the importance of not only researchers remaining transparent in their work, with an “warts and all” approach, but also how our work is conveyed through differing writing styles. We can all reminisce having to read sections of papers several times as the lexical complexity pertaining to articulations employed in publications surpass the cognitive accessibility of an audience devoid of a scientific predisposition… ahem… yes.
 This session discussed adapting science communication to a broader audience for improved accessibility, but noted the challenge of limited word counts in publications for conveying complex topics. The conversations extended to teaching experiences, highlighting the focus on developing academic writing skills, emphasizing the need for abstracts to provide layperson-friendly summaries, and underscoring the importance of early instruction to this regard. The session further explored the factors influencing changes in academic writing practices across disciplines.
+
+<br><br>
+
+</div>
+</div>
+<p>
+ <h3>
+  <a data-toggle="collapse" href="#session3" role="button" aria-expanded="false" aria-controls="session3">
+    18/01/24 - ‘How (and Whether) to Teach Undergraduates About the Replication Crisis in Psychological Science’.
+  </a>
+</h3>
+<div class="collapse" id="session3">
+  <div class="card card-body">
+
+  <h4><em>‘How (and Whether) to Teach Undergraduates About the Replication Crisis in Psychological Science’. Paper: Here’</em></h4>
+  <p>
+  <strong>PDF:</strong> <a href="https://journals.sagepub.com/doi/full/10.1177/0098628318762900" target="_blank" rel="noopener">Here</a>
+  </p>
+  <br>
+ This session focused on introducing young scientists to the replication crisis. Discussions within this session focused on when in our own timelines attendees (mostly PhD Psychology students) became aware of the replication crisis in science and the open science movement overall. Experiences varied with some finding out during their undergraduate, and some not being aware until attending the ReproducibiliTea journal club.
+Interesting points were made about the use of open science practices by project supervisors and how again, this varies even within departments. A suggestion was made to create a uniformed policy on open science practices that current and new employees could be taught, which could lead to the teaching of these practices to students. One member of staff commented that they teach about the reproducibility crisis as early as first year undergraduate, though this is not standard amongst other lecturers.
+The paper attached provides a 1-hour lecture on replicable research practices, which can be updated and delivered to staff and students easily. Some attendees stated that sharing this with their supervisors may prove beneficial, not just for their own research, but for the awareness of open science practices among seasoned academics.
 
 <br><br>
 
