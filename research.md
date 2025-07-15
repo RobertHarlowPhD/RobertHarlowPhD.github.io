@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Current Research"
-permalink: /currentresearch/
+permalink: /current_research/
 ---
 # My PhD thesis - Predictive Perception in Autism
 My thesis investigates how predictive perception, motor coordination, and neurotype differences influences social perception in autism. It explores how these mechanisms contribute to social difficulties faced by autistic people, through the lens of the double empathy problem and second-person neuroscience.
