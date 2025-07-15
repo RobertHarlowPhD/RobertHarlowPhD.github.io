@@ -10,7 +10,7 @@ Below, you will find a blog outlining the latest ReproducibiliTea journal club s
 <p>
  <h3>
   <a data-toggle="collapse" href="#session1" role="button" aria-expanded="false" aria-controls="session1">
-    19/10/23 – Easing Into Open Science
+    Session 1 – Easing Into Open Science
   </a>
 </h3>
 <div class="collapse" id="session1">
@@ -37,7 +37,7 @@ Below, you will find a blog outlining the latest ReproducibiliTea journal club s
 <p>
  <h3>
   <a data-toggle="collapse" href="#session2" role="button" aria-expanded="false" aria-controls="session2">
-    07/12/23 - Writing Empirical Articles: Transparency, Reproducibility, Clarity, and Memorability
+    Session 2 - Writing Empirical Articles: Transparency, Reproducibility, Clarity, and Memorability
   </a>
 </h3>
 <div class="collapse" id="session2">
@@ -58,7 +58,7 @@ This session discussed adapting science communication to a broader audience for 
 <p>
  <h3>
   <a data-toggle="collapse" href="#session3" role="button" aria-expanded="false" aria-controls="session3">
-    18/01/24 - ‘How (and Whether) to Teach Undergraduates About the Replication Crisis in Psychological Science’.
+    Session 3 - How (and Whether) to Teach Undergraduates About the Replication Crisis in Psychological Science.
   </a>
 </h3>
 <div class="collapse" id="session3">
