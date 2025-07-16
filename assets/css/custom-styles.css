@@ -3,3 +3,15 @@ strong, strong + a {
   white-space: nowrap;
   margin-right: 0.5em; /* spacing between PDF: and Here */
 }
+
+
+/* Reduce navbar height */
+.navbar {
+  padding-top: 0.3rem;
+  padding-bottom: 0.3rem;
+}
+
+/* Optional: reduce font size inside navbar if it looks cramped */
+.navbar-nav > li > a {
+  font-size: 0.9rem;
+}
