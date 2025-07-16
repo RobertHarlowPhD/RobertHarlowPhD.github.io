@@ -9,7 +9,7 @@ permalink: /reproducibilitea/
   <img src="/assets/img/reproducibilitealogo.jpg" alt="ReproducibiliTea Logo" style="max-width: 45%; height: auto;">
 
   <!-- Right image (e.g. University logo or teacup) -->
-  <img src="/assets/img/perteapot.PNG" alt="Teacup" style="max-width: 45%; height: auto;">
+  <img src="/assets/img/perteapot.png" alt="Teacup" style="max-width: 45%; height: auto;">
 </div>
 Started in early 2018 at the University of Oxford, ReproducibiliTea has now spread to 104 institutions in 25 different countries and is sponsored by the UK Reproducibility Network (UKRN). Attended by both lecturers and research students at the University of Plymouth and hosted by Robert Harlow and Darya Klymenko, this bi-weekly journal club discusses diverse ideas, papers and issues on how to improve research practices, reproducibility of results, and the Open Science movement overall.
 Below, you will find a blog outlining the latest ReproducibiliTea journal club sessions. You can click on the following session dropdowns to learn about what we discussed. So stick the kettle on, and enjoy!
