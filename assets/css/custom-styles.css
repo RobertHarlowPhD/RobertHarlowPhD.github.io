@@ -5,13 +5,13 @@ strong, strong + a {
 }
 
 
-/* Reduce navbar height */
+/* Reduce navbar padding and fix page title being obscured */
 .navbar {
-  padding-top: 0.3rem;
-  padding-bottom: 0.3rem;
+  padding-top: 0.4rem !important;
+  padding-bottom: 0.4rem !important;
 }
 
-/* Optional: reduce font size inside navbar if it looks cramped */
-.navbar-nav > li > a {
-  font-size: 0.9rem;
+/* Add top padding to the content so it's not hidden under navbar */
+.page-content {
+  padding-top: 80px !important;
 }
