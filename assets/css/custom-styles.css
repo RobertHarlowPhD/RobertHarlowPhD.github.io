@@ -5,13 +5,14 @@ strong, strong + a {
 }
 
 
-/* Reduce navbar padding and fix page title being obscured */
+/* Make sure the navbar height is accounted for in page layout */
 .navbar {
-  padding-top: 0.4rem !important;
-  padding-bottom: 0.4rem !important;
+  padding-top: 0.7rem !important;
+  padding-bottom: 0.7rem !important;
+  height: 60px;
 }
 
-/* Add top padding to the content so it's not hidden under navbar */
+/* Add padding at the top of the page so content isn't hidden behind fixed navbar */
 .page-content {
-  padding-top: 80px !important;
+  padding-top: 100px !important;
 }
