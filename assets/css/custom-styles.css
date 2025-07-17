@@ -16,3 +16,9 @@ strong, strong + a {
 .page-content {
   padding-top: 100px !important;
 }
+
+/* Make the main content container wider */
+.container {
+  max-width: 1140px !important;  /* Default is 720px or 960px depending on Bootstrap version */
+  width: 90% !important;
+}
