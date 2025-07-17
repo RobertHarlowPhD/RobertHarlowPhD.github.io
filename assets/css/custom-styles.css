@@ -25,3 +25,7 @@ strong, strong + a {
   padding-left: 30px;
   padding-right: 30px;
 }
+
+body {
+  background-color: lightyellow !important;
+}
