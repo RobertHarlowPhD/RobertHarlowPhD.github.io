@@ -11,6 +11,6 @@ I am in the final year of my PhD researching predictive social perception within
 
 Alongside my research, I also mark work on the Foundation degree and BSc Psychology assignments, of which I also teach on some modules. I run seminars and workshops focusing on a variety of different approaches in Psychology, while helping students equip vital skills in an easy to digest way.
 
-In addition, I am the co-organizer of the ReproducibiliTea journal club as a part of my role as Local Network Lead for the [UK Reproducibility Network (UKRN)](ukrn.org) at University of Plymouth. This club promotes and discusses the importance of open and reproducible research through bi-weekly meetings, engaging both staff and research students.
+In addition, I am the co-organizer of the ReproducibiliTea journal club as a part of my role as Local Network Lead for the [UK Reproducibility Network (UKRN)](www.ukrn.org) at University of Plymouth. This club promotes and discusses the importance of open and reproducible research through bi-weekly meetings, engaging both staff and research students.
 
 Outside of work, I am a professional storm chaser for [UK Weather Chase](https://www.youtube.com/channel/UCYWrB3iUO7eOa-7ZiUaf2Zg), with skills in reading radar and computer model outputs. I also enjoy making music, and engaging with the fire and flow arts community as a fire spinner. 
