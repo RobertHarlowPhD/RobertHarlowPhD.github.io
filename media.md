@@ -4,4 +4,4 @@ title: "Media"
 permalink: /media/
 ---
 
-Here are some interviews, articles, or media appearances featuring my work...
+Stay tuned for showcases of my work as I update this website. Thank you for your patience
