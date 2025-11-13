@@ -15,7 +15,7 @@ permalink: /research/
 
  <h4>**My PhD - Predictive Perception in Autism**’</em></h4>
   <p>
-  <strong>PDF:</strong> <a href="https://online.ucpress.edu/collabra/article/7/1/18684/115927/Easing-Into-Open-Science-A-Guide-for-Graduate" target="_blank" rel="noopener">Here</a>
+  <strong>PDF:</strong> <a href="(https://researchportal.plymouth.ac.uk/en/studentTheses/predictive-perception-in-autism/)" target="_blank" rel="noopener">Here</a>
   </p>
   <br>
 My thesis investigates how predictive perception, motor coordination, and neurotype differences influences social perception in autism. It explores how these mechanisms contribute to social difficulties faced by autistic people, through the lens of the double empathy problem and second-person neuroscience.
