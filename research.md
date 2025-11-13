@@ -4,6 +4,12 @@ title: "Current Research"
 permalink: /research/
 ---
 
+<!-- Make sure Bootstrap CSS & JS are included in your site layout -->
+<!-- Example (usually in _includes/head.html or default layout):
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+-->
+
 <h3>
   <a data-bs-toggle="collapse" href="#NCODE-AI-Assisted-Autism-Diagnosis" role="button" aria-expanded="false" aria-controls="NCODE-AI-Assisted-Autism-Diagnosis">
     NCODE - AI Assisted Autism Diagnosis
@@ -34,9 +40,10 @@ permalink: /research/
 <div class="collapse" id="MyPhD">
   <div class="card card-body">
     <h4><em>My PhD - Predictive Perception in Autism</em></h4>
+
     <p><strong>PDF:</strong> <a href="https://researchportal.plymouth.ac.uk/en/studentTheses/predictive-perception-in-autism/" target="_blank" rel="noopener">Here</a></p>
 
-    My thesis investigated how predictive perception, motor coordination, and neurotype differences influence social perception in autism. It explored how these mechanisms contribute to social difficulties faced by autistic people, through the lens of the double empathy problem and second-person neuroscience.
+    <p>My thesis investigated how predictive perception, motor coordination, and neurotype differences influence social perception in autism. It explored how these mechanisms contribute to social difficulties faced by autistic people, through the lens of the double empathy problem and second-person neuroscience.</p>
 
     <p>Firstly, I investigated how spoken intentions and visual evidence guide predictive social perception. Across four experiments, results supported a dual-process model whereby top-down expectations shape early perception but are overridden by visual input once motion begins. This led to the ‘kinematic dominance hypothesis’, suggesting motion cues dominate perception once movement begins due to their higher precision in predictive social perception.</p>
 
