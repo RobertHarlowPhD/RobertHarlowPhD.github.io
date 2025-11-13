@@ -13,9 +13,11 @@ permalink: /research/
 <div class="collapse" id="MyPhD">
   <div class="card card-body">
 
-
-
-# My PhD thesis - Predictive Perception in Autism
+ <h4>**My PhD - Predictive Perception in Autism**’</em></h4>
+  <p>
+  <strong>PDF:</strong> <a href="https://online.ucpress.edu/collabra/article/7/1/18684/115927/Easing-Into-Open-Science-A-Guide-for-Graduate" target="_blank" rel="noopener">Here</a>
+  </p>
+  <br>
 My thesis investigates how predictive perception, motor coordination, and neurotype differences influences social perception in autism. It explores how these mechanisms contribute to social difficulties faced by autistic people, through the lens of the double empathy problem and second-person neuroscience.
 
 Firstly, I investigated how spoken intentions and visual evidence guide predictive social perception. Across four experiments, results supported a dual-process model whereby top-down expectations shape early perception but are overridden by visual input once motion begins. This led to the ‘kinematic dominance hypothesis’, suggesting motion cues dominate perception once movement begins due to their higher precision.
