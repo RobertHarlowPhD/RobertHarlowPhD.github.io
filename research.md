@@ -3,6 +3,25 @@ layout: page
 title: "Current Research"
 permalink: /research/
 ---
+<p>
+ <h3>
+  <a data-toggle="collapse" href="#NCODE - AI Assisted Autism Diagnosis" role="button" aria-expanded="false" aria-controls="NCODE - AI Assisted Autism Diagnosis">
+    ↓NCODE - AI Assisted Autism Diagnosis
+  </a>
+</h3>
+<div class="collapse" id="NCODE - AI Assisted Autism Diagnosis">
+  <div class="card card-body">
+There remains significant pressure on the NHS and their wait time for an autism diagnosis. This strain has a huge cost on the resources and well-being of those involved. This project aims to provide new methods of diagnostic assistance to tackle these wait times. The initiative tests next-generation tools for testing neurodevelopmental conditions in everyday settings. The project utilizes neuroscience methods, such as functional Near Infrared Spectroscopy (fNIS) to measure brainwaves, voice analysis, sleep measures, and AI approaches to identify reliable biological and behavioural markers of autism. The central goal to move diagnostic and monitoring tchnologies beyond clinical settings to a more affordable, efficiant, and inclusive alternative. Co-designing this process with autistic community groups, clinicians, and data scientists will help produce tools that are scientifically valid, ethically sound, and genuinely benificial for both the NHS and wider community. Our outreach for focus groups of autistic people, those awating diagnosis, and clinicians involved in the process is still on-going! If you fall into these categories and wish to get involved, please email me - Robert.harlow@plymouth.ac.uk
+
+<p>
+ <h3>
+  <a data-toggle="collapse" href="#Predictive Social Perception in Autism using EEG" role="button" aria-expanded="false" aria-controls="Predictive Social Perception in Autism using EEG">
+    ↓Predictive Social Perception in Autism using EEG
+  </a>
+</h3>
+<div class="collapse" id="Predictive Social Perception in Autism using EEG">
+  <div class="card card-body">
+This on-going project aims to investigate how autistic and non-autistic people process and predict the actions of other autitic and non-autistic people. Also, if the knowledge of whether the person they are obsrving is autistic or not impacts the predictive mechanisms of social perception. We are using electroencephalogram (EEG) recordings to measure brain waves, touch-screen computer responses, and austism questionnaires to paint the picture of how social framing and shared neurotype may influence how we percieve others. This is an on-going project that is still recruting! if you are interested, please email me - Robert.harlow@plymouh.ac.uk
 
 <p>
  <h3>
@@ -13,7 +32,7 @@ permalink: /research/
 <div class="collapse" id="MyPhD">
   <div class="card card-body">
 
- <h4><em>My PhD - Predictive Perception in Autism</em></h4>
+ <h4><em>↓My PhD - Predictive Perception in Autism</em></h4>
   <p>
   <strong>PDF:</strong> <a href="(https://researchportal.plymouth.ac.uk/en/studentTheses/predictive-perception-in-autism/)" target="_blank" rel="noopener">Here</a>
   </p>
