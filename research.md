@@ -29,7 +29,7 @@ permalink: /research/
  </h3>
  <div class="collapse" id="Predictive-EEG">
   <div class="card card-body">
-    This ongoing project aims to investigate how autistic and non-autistic people process and predict the actions of others, and whether knowing the neurotype of the person being observed impacts predictive mechanisms of social perception. We are using electroencephalogram (EEG) recordings to measure brain waves, touch-screen computer responses, and autism questionnaires to explore how social framing and shared neurotype influence perception. This project is still recruiting. If you are interested, please email me at <a href="mailto:Robert.harlow@plymouth.ac.uk">Robert.harlow@plymouth.ac.uk</a>.
+    This ongoing project aims to investigate how autistic and non-autistic people process and predict the actions of others, and whether knowing the neurotype of the person being observed impacts predictive mechanisms of social perception. We are using electroencephalogram (EEG) recordings to measure brain waves, touch-screen computer responses, and autism questionnaires to explore how social framing and shared neurotype influence perception. This project is still recruiting. If you are interested, please email me at <a href="mailto:Robert.harlow@plymouth.ac.uk">Robert.harlow@plymouth.ac.uk</a>
   </div>
  </div>
 </p>
