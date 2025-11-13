@@ -6,7 +6,7 @@ permalink: /research/
 <p>
  <h3>
   <a data-toggle="collapse" href="#NCODE - AI Assisted Autism Diagnosis" role="button" aria-expanded="false" aria-controls="NCODE - AI Assisted Autism Diagnosis">
-    ↓NCODE - AI Assisted Autism Diagnosis
+    NCODE - AI Assisted Autism Diagnosis
   </a>
 </h3>
 <div class="collapse" id="NCODE - AI Assisted Autism Diagnosis">
@@ -17,7 +17,7 @@ There remains significant pressure on the NHS and their wait time for an autism 
 <p>
  <h3>
   <a data-toggle="collapse" href="#Predictive Social Perception in Autism using EEG" role="button" aria-expanded="false" aria-controls="Predictive Social Perception in Autism using EEG">
-    ↓Predictive Social Perception in Autism using EEG
+    Predictive Social Perception in Autism using EEG
   </a>
 </h3>
 <div class="collapse" id="Predictive Social Perception in Autism using EEG">
@@ -33,7 +33,7 @@ This on-going project aims to investigate how autistic and non-autistic people p
 <div class="collapse" id="MyPhD">
   <div class="card card-body">
 
- <h4><em>↓My PhD - Predictive Perception in Autism</em></h4>
+ <h4><em>My PhD - Predictive Perception in Autism</em></h4>
   <p>
   <strong>PDF:</strong> <a href="(https://researchportal.plymouth.ac.uk/en/studentTheses/predictive-perception-in-autism/)" target="_blank" rel="noopener">Here</a>
   </p>
