@@ -4,40 +4,42 @@ title: "Current Research"
 permalink: /research/
 ---
 
-<!-- Make sure Bootstrap CSS & JS are included in your site layout -->
-<!-- Example (usually in _includes/head.html or default layout):
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
--->
-
-<h3>
-  <a data-bs-toggle="collapse" href="#NCODE-AI-Assisted-Autism-Diagnosis" role="button" aria-expanded="false" aria-controls="NCODE-AI-Assisted-Autism-Diagnosis">
+<!-- NCODE - AI Assisted Autism Diagnosis -->
+<p>
+ <h3>
+  <a data-toggle="collapse" href="#NCODE-AI" role="button" aria-expanded="false" aria-controls="NCODE-AI">
     NCODE - AI Assisted Autism Diagnosis
   </a>
-</h3>
-<div class="collapse" id="NCODE-AI-Assisted-Autism-Diagnosis">
+ </h3>
+ <div class="collapse" id="NCODE-AI">
   <div class="card card-body">
     There remains significant pressure on the NHS and their wait time for an autism diagnosis. This strain has a huge cost on the resources and well-being of those involved. This project aims to provide new methods of diagnostic assistance to tackle these wait times. The initiative tests next-generation tools for testing neurodevelopmental conditions in everyday settings. The project utilizes neuroscience methods, such as functional Near Infrared Spectroscopy (fNIRS) to measure brainwaves, voice analysis, sleep measures, and AI approaches to identify reliable biological and behavioural markers of autism. The central goal is to move diagnostic and monitoring technologies beyond clinical settings to a more affordable, efficient, and inclusive alternative. Co-designing this process with autistic community groups, clinicians, and data scientists will help produce tools that are scientifically valid, ethically sound, and genuinely beneficial for both the NHS and wider community. Our outreach for focus groups of autistic people, those awaiting diagnosis, and clinicians involved in the process is still ongoing. If you fall into these categories and wish to get involved, please email me at <a href="mailto:Robert.harlow@plymouth.ac.uk">Robert.harlow@plymouth.ac.uk</a>.
   </div>
-</div>
+ </div>
+</p>
 
-<h3>
-  <a data-bs-toggle="collapse" href="#Predictive-Social-Perception-EEG" role="button" aria-expanded="false" aria-controls="Predictive-Social-Perception-EEG">
+<!-- Predictive Social Perception in Autism using EEG -->
+<p>
+ <h3>
+  <a data-toggle="collapse" href="#Predictive-EEG" role="button" aria-expanded="false" aria-controls="Predictive-EEG">
     Predictive Social Perception in Autism using EEG
   </a>
-</h3>
-<div class="collapse" id="Predictive-Social-Perception-EEG">
+ </h3>
+ <div class="collapse" id="Predictive-EEG">
   <div class="card card-body">
     This ongoing project aims to investigate how autistic and non-autistic people process and predict the actions of others, and whether knowing the neurotype of the person being observed impacts predictive mechanisms of social perception. We are using electroencephalogram (EEG) recordings to measure brain waves, touch-screen computer responses, and autism questionnaires to explore how social framing and shared neurotype influence perception. This project is still recruiting. If you are interested, please email me at <a href="mailto:Robert.harlow@plymouth.ac.uk">Robert.harlow@plymouth.ac.uk</a>.
   </div>
-</div>
+ </div>
+</p>
 
-<h3>
-  <a data-bs-toggle="collapse" href="#MyPhD" role="button" aria-expanded="false" aria-controls="MyPhD">
+<!-- My PhD – Predictive Perception in Autism -->
+<p>
+ <h3>
+  <a data-toggle="collapse" href="#MyPhD" role="button" aria-expanded="false" aria-controls="MyPhD">
     My PhD – Predictive Perception in Autism
   </a>
-</h3>
-<div class="collapse" id="MyPhD">
+ </h3>
+ <div class="collapse" id="MyPhD">
   <div class="card card-body">
     <h4><em>My PhD - Predictive Perception in Autism</em></h4>
 
@@ -51,5 +53,6 @@ permalink: /research/
 
     <p>Finally, I tested the double empathy problem through predictive perception and diagnostic framing. Non-autistic participants altered perception when told the actor was autistic, despite identical kinematics. Autistic participants showed stable perception regardless of actor neurotype. These findings bridge predictive perception and the double empathy problem, highlighting that difficulties experienced in autism may stem from environmental and relational factors, including assumptions of autistic behaviour by non-autistic observers, rather than measures of ability.</p>
   </div>
-</div>
+ </div>
+</p>
 
