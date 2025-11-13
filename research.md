@@ -3,6 +3,18 @@ layout: page
 title: "Current Research"
 permalink: /research/
 ---
+
+<p>
+ <h3>
+  <a data-toggle="collapse" href="#MyPhD" role="button" aria-expanded="false" aria-controls="MyPhD">
+    My PhD – Predictive Perception in Autism
+  </a>
+</h3>
+<div class="collapse" id="MyPhD">
+  <div class="card card-body">
+
+
+
 # My PhD thesis - Predictive Perception in Autism
 My thesis investigates how predictive perception, motor coordination, and neurotype differences influences social perception in autism. It explores how these mechanisms contribute to social difficulties faced by autistic people, through the lens of the double empathy problem and second-person neuroscience.
 
