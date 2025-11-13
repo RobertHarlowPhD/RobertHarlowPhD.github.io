@@ -11,6 +11,7 @@ permalink: /research/
 </h3>
 <div class="collapse" id="NCODE - AI Assisted Autism Diagnosis">
   <div class="card card-body">
+   <p></p>
 There remains significant pressure on the NHS and their wait time for an autism diagnosis. This strain has a huge cost on the resources and well-being of those involved. This project aims to provide new methods of diagnostic assistance to tackle these wait times. The initiative tests next-generation tools for testing neurodevelopmental conditions in everyday settings. The project utilizes neuroscience methods, such as functional Near Infrared Spectroscopy (fNIS) to measure brainwaves, voice analysis, sleep measures, and AI approaches to identify reliable biological and behavioural markers of autism. The central goal to move diagnostic and monitoring tchnologies beyond clinical settings to a more affordable, efficiant, and inclusive alternative. Co-designing this process with autistic community groups, clinicians, and data scientists will help produce tools that are scientifically valid, ethically sound, and genuinely benificial for both the NHS and wider community. Our outreach for focus groups of autistic people, those awating diagnosis, and clinicians involved in the process is still on-going! If you fall into these categories and wish to get involved, please email me - Robert.harlow@plymouth.ac.uk
 
 <p>
