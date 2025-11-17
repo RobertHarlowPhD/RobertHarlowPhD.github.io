@@ -8,7 +8,7 @@ permalink: /research/
 <p>
  <h3>
   <a data-toggle="collapse" href="#NCODE-AI" role="button" aria-expanded="false" aria-controls="NCODE-AI">
-    NCODE - AI Assisted Autism Diagnosis
+    NCODE - AI Assisted Autism Diagnosis ↓
   </a>
  </h3>
  <div class="collapse" id="NCODE-AI">
@@ -24,7 +24,7 @@ permalink: /research/
 <p>
  <h3>
   <a data-toggle="collapse" href="#Predictive-EEG" role="button" aria-expanded="false" aria-controls="Predictive-EEG">
-    Predictive Social Perception in Autism using EEG
+    Predictive Social Perception in Autism using EEG ↓
   </a>
  </h3>
  <div class="collapse" id="Predictive-EEG">
@@ -38,7 +38,7 @@ permalink: /research/
 <p>
  <h3>
   <a data-toggle="collapse" href="#MyPhD" role="button" aria-expanded="false" aria-controls="MyPhD">
-    My PhD – Predictive Perception in Autism
+    My PhD – Predictive Perception in Autism ↓
   </a>
  </h3>
  <div class="collapse" id="MyPhD">
