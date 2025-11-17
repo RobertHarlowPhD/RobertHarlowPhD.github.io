@@ -345,8 +345,7 @@ Overall, the session provided a forum of discussion and was well received by att
 <p>
  <h3>
   <a data-toggle="collapse" href="#session17" role="button" aria-expanded="false" aria-controls="session17">
-    Session 17 - Science Communication: Explaining complex topics to a layperson crowd.
-  </a>
+    Session 17 - Science Communication: Explaining complex topics to a layperson crowd.</a>
 </h3>
 <div class="collapse" id="session17">
   <div class="card card-body">
