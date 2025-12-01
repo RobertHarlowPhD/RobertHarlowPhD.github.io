@@ -354,8 +354,10 @@ Overall, the session provided a forum of discussion and was well received by att
   <br>
     </div>
 This session presented something a little different, though still paramount to open science - science communication. Our session began by discussing types of science communication, how the role of a science communicator functions, and what challenges impact the communication of complex topics to a layperson crowd. The session showcased some favourited examples of good science communication. These included:
+   
 YouTube Channels: Kurzgesagt, Pindex, and Veritasium.
 Book: An Adventure in Statistics: The Reality Enigma – Andy Field
+   
 Overall, the session was well received with inciteful discussions surrounding the examples presented and how science should be accessible to all. Particular focus was raised on Andy Fields book, which has been fully read by two attendees, as a way to convey complex statistical concepts to layperson readers, or those beginning an academic journey. A video from Kurzgesagt was also shown to showcase industry careers of science communication that PhD graduates could pursue as opposed to the usual choice of academia or data science. 
 <br><br>
 
