@@ -7,7 +7,7 @@ permalink: /
 
 Note - this website is being updated, thank you for your patience.
 
-I am a Doctor of Psychology who recently achieved a PhD researching predictive social perception within autism. As an autistic person, this project has been very personal to me. I am currently in the exciting period of  producing publications that I can present around the world. My latst projects include expanding on my PhD project using EEG, and exploring new ways to diagnose autism with the hopes of reducing NHS waiting times. Outlines of these can be found on the 'current research' tab.
+I am a Doctor of Psychology who recently achieved a PhD researching predictive social perception within autism. As an autistic person, this project has been very personal to me. I am currently in the exciting period of  producing publications that I can present around the world. My latest projects include expanding on my PhD project using EEG, and exploring new ways to diagnose autism with the hopes of reducing NHS waiting times. Outlines of these can be found on the 'current research' tab.
 
 In addition, I am the co-organizer of the ReproducibiliTea journal club as a part of my role as Local Network Lead for the [UK Reproducibility Network (UKRN)](www.ukrn.org) at University of Plymouth. This club promotes and discusses the importance of open and reproducible research through bi-weekly meetings, engaging both staff and research students.
 
