@@ -366,12 +366,12 @@ Overall, the session was well received with inciteful discussions surrounding th
 <p>
  <h3>
   <a data-toggle="collapse" href="#session16" role="button" aria-expanded="false" aria-controls="session16">
-    Session 18 - Opening science to society:how to progress societal engagement into (open) science policies.
+    Session 18 - Opening science to society: how to progress societal engagement into (open) science policies.
   </a>
 </h3>
 <div class="collapse" id="session18">
   <div class="card card-body">
-  <h4><em>‘Opening science to society:how to progress societal engagement into (open) science policies’. Paper: Here’</em></h4>
+  <h4><em>‘Opening science to society: how to progress societal engagement into (open) science policies’. Paper: Here’</em></h4>
   <p>
   <strong>PDF:</strong> <a href="https://royalsocietypublishing.org/doi/pdf/10.1098/rsos.231309" target="_blank" rel="noopener">Here</a>
   </p>
