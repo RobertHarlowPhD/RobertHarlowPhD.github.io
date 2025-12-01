@@ -350,7 +350,7 @@ Overall, the session provided a forum of discussion and was well received by att
 </h3>
 <div class="collapse" id="session17">
   <div class="card card-body">
-  <h4><em>‘Science Communication: Explaining complex topics to a layperson crowd'. Info: Here’</em></h4>
+  <h4><em>‘Science Communication: Explaining complex topics to a layperson crowd'</em></h4>
   <p>
   <br>
 This session presented something a little different, though still paramount to open science - science communication. Our session began by discussing types of science communication, how the role of a science communicator functions, and what challenges impact the communication of complex topics to a layperson crowd. The session showcased some favourited examples of good science communication. These included:
