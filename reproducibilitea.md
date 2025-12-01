@@ -282,11 +282,11 @@ A discussion was had on how these elements impact robust research, how this vari
 
 <p>
  <h3>
-  <a data-toggle="collapse" href="#session14" role="button" aria-expanded="false" aria-controls="session14">
-    Session 14 - Preparation for the replication games.
+  <a data-toggle="collapse" href="#session13" role="button" aria-expanded="false" aria-controls="session13">
+    Session 13 - Preparation for the replication games.
   </a>
 </h3>
-<div class="collapse" id="session14">
+<div class="collapse" id="session13">
   <div class="card card-body">
   <h4><em>‘Preparation for the replication games'. Info: Here’</em></h4>
   <p>
@@ -301,11 +301,11 @@ This week’s session focused on preparing attendees for the upcoming replicatio
 
 <p>
  <h3>
-  <a data-toggle="collapse" href="#session15" role="button" aria-expanded="false" aria-controls="session15">
-    Session 15 - Let the replication games commence!
+  <a data-toggle="collapse" href="#session14" role="button" aria-expanded="false" aria-controls="session14">
+    Session 14 - Let the replication games commence!
   </a>
 </h3>
-<div class="collapse" id="session15">
+<div class="collapse" id="session14">
   <div class="card card-body">
   <h4><em>'Let the replication games commence!' Info: Here’</em></h4>
   <p>
@@ -321,11 +321,11 @@ A very rewarding day collaborating with researchers around the world and an exce
 
 <p>
  <h3>
-  <a data-toggle="collapse" href="#session16" role="button" aria-expanded="false" aria-controls="session16">
-    Session 16 - Editor Bias and Transparency in Psychology’s Open Science Era.
+  <a data-toggle="collapse" href="#session15" role="button" aria-expanded="false" aria-controls="session15">
+    Session 15 - Editor Bias and Transparency in Psychology’s Open Science Era.
   </a>
 </h3>
-<div class="collapse" id="session16">
+<div class="collapse" id="session15">
   <div class="card card-body">
   <h4><em>‘Editor Bias and Transparency in Psychology’s Open Science Era’. Paper: Here’</em></h4>
   <p>
@@ -344,11 +344,11 @@ Overall, the session provided a forum of discussion and was well received by att
 
 <p>
  <h3>
-  <a data-toggle="collapse" href="#session14" role="button" aria-expanded="false" aria-controls="session17">
-    Session 17 - Science Communication: Explaining complex topics to a layperson crowd.
+  <a data-toggle="collapse" href="#session16" role="button" aria-expanded="false" aria-controls="session16">
+    Session 16 - Science Communication: Explaining complex topics to a layperson crowd.
   </a>
 </h3>
-<div class="collapse" id="session17">
+<div class="collapse" id="session16">
   <div class="card card-body">
   <h4><em>‘Science Communication: Explaining complex topics to a layperson crowd'</em></h4>
   <p>
