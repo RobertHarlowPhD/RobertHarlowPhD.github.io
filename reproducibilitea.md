@@ -360,7 +360,24 @@ Book: An Adventure in Statistics: The Reality Enigma – Andy Field
    
 Overall, the session was well received with inciteful discussions surrounding the examples presented and how science should be accessible to all. Particular focus was raised on Andy Fields book, which has been fully read by two attendees, as a way to convey complex statistical concepts to layperson readers, or those beginning an academic journey. A video from Kurzgesagt was also shown to showcase industry careers of science communication that PhD graduates could pursue as opposed to the usual choice of academia or data science. 
 <br><br>
-</div>
-</div>
 
 
+<p>
+ <h3>
+  <a data-toggle="collapse" href="#session17" role="button" aria-expanded="false" aria-controls="session17">
+    Session 17 - Opening science to society: how to progress societal engagement into (open) science policies.
+  </a>
+</h3>
+<div class="collapse" id="session17">
+  <div class="card card-body">
+  <h4><em>‘Editor Bias and Transparency in Psychology’s Open Science Era’. Paper: Here’</em></h4>
+  <p>
+  <strong>PDF:</strong> <a href="https://royalsocietypublishing.org/doi/pdf/10.1098/rsos.231309" target="_blank" rel="noopener">Here</a>
+  </p>
+  <br>
+This session focused on discussing that open science shouldn’t just be about making research papers and data freely accessible — it should also involve everyday people and communities in the scientific process.
+Right now, open science policies focus on sharing data and research openly, but little guidance exists on how to include the public in meaningful ways. The authors argue that involving people outside of the scientific community — like local communities, schools, businesses, or governments — can make science more relevant, trustworthy, and impactful. We discussed how this is incorporated in current research projects at the university, how PPIE (Patient and Public Involvement and Engagement) helps visualize how our research can be implemented into the wider community. A great discussion was had on success stories and possible barriers to this, such as time and funding restraints. Overall, a well-received and important consideration!  
+
+<br><br>
+</div>
+</div>
