@@ -406,3 +406,21 @@ This halloween special session discussed how this “spooky” classic reveals h
 <br><br>
 </div>
 </div>
+
+<p>
+ <h3>
+  <a data-toggle="collapse" href="#session19" role="button" aria-expanded="false" aria-controls="session19">
+    Session 19 - Best Laid Plans: A Guide to Reporting Preregistration Deviations.
+  </a>
+</h3>
+<div class="collapse" id="session19">
+  <div class="card card-body">
+  <h4><em>‘Best Laid Plans: A Guide to Reporting Preregistration Deviations.’. Paper: Here’</em></h4>
+  <p>
+  <strong>PDF:</strong> <a href="https://journals.sagepub.com/doi/10.1177/25152459231213802" target="_blank" rel="noopener">Here</a>
+  </p>
+  <br>
+This session discussed pre-registrations and how authors should disclose deviations from preregistration in publications, why it shouldn't be frowned upon to have such deviations, and how we can still be open and honest even when performing analyses that we didn't expect (and the multitude of reasons why this might happen). Discussions were made about how projects do not always go to plan and evolve over time, that this is a natural process in research, and should be presented as such. Guidence is given in this paper about how a simple short declaration of deviations can give a realitstic representation of ones project and aid in addressing the replication crisis.
+    <br><br>
+</div>
+</div>
