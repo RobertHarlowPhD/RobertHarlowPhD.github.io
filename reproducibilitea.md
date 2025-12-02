@@ -415,7 +415,7 @@ This halloween special session discussed how this “spooky” classic reveals h
 </h3>
 <div class="collapse" id="session19">
   <div class="card card-body">
-  <h4><em>‘Best Laid Plans: A Guide to Reporting Preregistration Deviations.’. Paper: Here’</em></h4>
+  <h4><em>‘Best Laid Plans: A Guide to Reporting Preregistration Deviations.’Paper: Here’</em></h4>
   <p>
   <strong>PDF:</strong> <a href="https://journals.sagepub.com/doi/10.1177/25152459231213802" target="_blank" rel="noopener">Here</a>
   </p>
