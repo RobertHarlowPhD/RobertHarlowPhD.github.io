@@ -372,7 +372,7 @@ Overall, the session was well received with inciteful discussions surrounding th
 </h3>
 <div class="collapse" id="session17">
   <div class="card card-body">
-  <h4><em>‘Editor Bias and Transparency in Psychology’s Open Science Era’. Paper: Here’</em></h4>
+  <h4><em>‘Opening science to society: how to progress societal engagement into (open) science policies’. Paper: Here’</em></h4>
   <p>
   <strong>PDF:</strong> <a href="https://royalsocietypublishing.org/doi/pdf/10.1098/rsos.231309" target="_blank" rel="noopener">Here</a>
   </p>
@@ -383,3 +383,19 @@ Right now, open science policies focus on sharing data and research openly, but 
 <br><br>
 </div>
 </div>
+
+<p>
+ <h3>
+  <a data-toggle="collapse" href="#session18" role="button" aria-expanded="false" aria-controls="session18">
+    Session 18 - False-Positive Psychology: Undisclosed Flexibility in Data Collection and Analysis Allows Presenting Anything as Significant
+  </a>
+</h3>
+<div class="collapse" id="session18">
+  <div class="card card-body">
+  <h4><em>‘False-Positive Psychology: Undisclosed Flexibility in Data Collection and Analysis Allows Presenting Anything as Significant’. Paper: Here’</em></h4>
+  <p>
+  <strong>PDF:</strong> <a href="https://journals.sagepub.com/doi/10.1177/0956797611417632" target="_blank" rel="noopener">Here</a>
+  </p>
+  <br>
+This halloween special session discussed how this “spooky” classic reveals how perfectly ordinary research decisions can conjure up extraordinary (and entirely false) findings — and what open science has done to exorcise these statistical spirits! These flexible “researcher degrees of freedom” mean that even honest scientists can unwittingly generate evidence for effects that do not exist. The work helped spark major reforms in open science, including preregistration, data and code sharing, and greater emphasis on replication, all aimed at making research practices more transparent and limiting opportunities for such false positives to arise. Overall a good discussion and introduction to the ongoing replication crisis to new attendees!
+<br><br>
