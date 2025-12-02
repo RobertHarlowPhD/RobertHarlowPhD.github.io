@@ -360,8 +360,7 @@ Book: An Adventure in Statistics: The Reality Enigma – Andy Field
    
 Overall, the session was well received with inciteful discussions surrounding the examples presented and how science should be accessible to all. Particular focus was raised on Andy Fields book, which has been fully read by two attendees, as a way to convey complex statistical concepts to layperson readers, or those beginning an academic journey. A video from Kurzgesagt was also shown to showcase industry careers of science communication that PhD graduates could pursue as opposed to the usual choice of academia or data science. 
 <br><br>
-</div>
-</div>
+
 
 <p>
  <h3>
