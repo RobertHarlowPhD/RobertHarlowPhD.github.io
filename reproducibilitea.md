@@ -354,12 +354,14 @@ Overall, the session provided a forum of discussion and was well received by att
   <p>
   <br>
 This session presented something a little different, though still paramount to open science - science communication. Our session began by discussing types of science communication, how the role of a science communicator functions, and what challenges impact the communication of complex topics to a layperson crowd. The session showcased some favourited examples of good science communication. These included:
-   
+   <br>
 YouTube Channels: Kurzgesagt, Pindex, and Veritasium.
 Book: An Adventure in Statistics: The Reality Enigma – Andy Field
-   
+   <br>
 Overall, the session was well received with inciteful discussions surrounding the examples presented and how science should be accessible to all. Particular focus was raised on Andy Fields book, which has been fully read by two attendees, as a way to convey complex statistical concepts to layperson readers, or those beginning an academic journey. A video from Kurzgesagt was also shown to showcase industry careers of science communication that PhD graduates could pursue as opposed to the usual choice of academia or data science. 
 <br><br>
+</div>
+</div>
 
 
 <p>
@@ -397,3 +399,5 @@ Right now, open science policies focus on sharing data and research openly, but 
   <br>
 This halloween special session discussed how this “spooky” classic reveals how perfectly ordinary research decisions can conjure up extraordinary (and entirely false) findings — and what open science has done to exorcise these statistical spirits! These flexible “researcher degrees of freedom” mean that even honest scientists can unwittingly generate evidence for effects that do not exist. The work helped spark major reforms in open science, including preregistration, data and code sharing, and greater emphasis on replication, all aimed at making research practices more transparent and limiting opportunities for such false positives to arise. Overall a good discussion and introduction to the ongoing replication crisis to new attendees!
 <br><br>
+</div>
+</div>
