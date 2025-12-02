@@ -392,12 +392,12 @@ Right now, open science policies focus on sharing data and research openly, but 
 <p>
  <h3>
   <a data-toggle="collapse" href="#session18" role="button" aria-expanded="false" aria-controls="session18">
-    Session 18 - False-Positive Psychology: Undisclosed Flexibility in Data Collection and Analysis Allows Presenting Anything as Significant
+    Session 18 - False-Positive Psychology: Undisclosed Flexibility in Data Collection and Analysis Allows Presenting Anything as Significant.
   </a>
 </h3>
 <div class="collapse" id="session18">
   <div class="card card-body">
-  <h4><em>‘False-Positive Psychology: Undisclosed Flexibility in Data Collection and Analysis Allows Presenting Anything as Significant’. Paper: Here’</em></h4>
+  <h4><em>‘False-Positive Psychology: Undisclosed Flexibility in Data Collection and Analysis Allows Presenting Anything as Significant.’. Paper: Here’</em></h4>
   <p>
   <strong>PDF:</strong> <a href="https://journals.sagepub.com/doi/10.1177/0956797611417632" target="_blank" rel="noopener">Here</a>
   </p>
