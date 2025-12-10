@@ -46,7 +46,8 @@ permalink: /research/
     <h4><em>My PhD - Predictive Perception in Autism</em></h4>
 
     <p><strong>PDF:</strong> <a href="https://researchportal.plymouth.ac.uk/en/studentTheses/predictive-perception-in-autism/" target="_blank" rel="noopener">Here</a></p>
-<p><strong>Citation:</strong></p> Harlow, R. (2025). Predictive perception in autism (PhD thesis, University of Plymouth). https://doi.org/10.24382/a2qy-yq54
+<p><strong>Citation:</strong> Harlow, R. (2025). Predictive perception in autism (PhD thesis, University of Plymouth). https://doi.org/10.24382/a2qy-yq54 </p>
+
 
     <p>My thesis investigated how predictive perception, motor coordination, and neurotype differences influence social perception in autism. It explored how these mechanisms contribute to social difficulties faced by autistic people, through the lens of the double empathy problem and second-person neuroscience.</p>
 
