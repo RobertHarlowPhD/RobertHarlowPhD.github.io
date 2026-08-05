@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Current Research"
+title: "My Research"
 permalink: /research/
 ---
 
@@ -13,9 +13,9 @@ permalink: /research/
  </h3>
  <div class="collapse" id="NCODE-AI">
   <div class="card card-body">
-    There remains significant pressure on the NHS and their wait times for an autism diagnosis. This strain has a huge cost on the resources and well-being of those involved. This project aims to provide new methods of diagnostic assistance to tackle these wait times. This initiative uses next-generation tools for testing neurodevelopmental conditions in everyday settings. The project utilizes neuroscience methods, such as functional Near Infrared Spectroscopy (fNIRS) to measure brainwaves, voice analysis, sleep measures, and AI approaches to identify reliable biological and behavioural markers of autism. The central goal is to move diagnostic and monitoring technologies beyond clinical settings to a more affordable, efficient, and inclusive alternative. From analogue to digital! 
+    There remains significant pressure on the NHS and their wait times for an autism diagnosis. This strain has a huge cost on the resources and well-being of those involved. This project aimed to provide new methods of diagnostic assistance to tackle these wait times. This initiative used next-generation tools for testing neurodevelopmental conditions in everyday settings. The project utilized neuroscience methods, such as functional Near Infrared Spectroscopy (fNIRS) to measure brainwaves, voice analysis, sleep measures, and AI approaches to identify reliable biological and behavioural markers of autism. The central goal is to move diagnostic and monitoring technologies beyond clinical settings to a more affordable, efficient, and inclusive alternative. From analogue to digital! 
    
-   Co-designing this process with autistic community groups, clinicians, and data scientists will help produce tools that are scientifically valid, ethically sound, and genuinely beneficial for both the NHS and wider community. Our outreach for focus groups of autistic people, those awaiting diagnosis, and clinicians involved in the process is still ongoing. If you fall into these categories and wish to get involved, please email me at <a href="mailto:Robert.harlow@plymouth.ac.uk">Robert.harlow@plymouth.ac.uk</a>
+   Co-designing this process with autistic community groups, clinicians, and data scientists could help produce tools that are scientifically valid, ethically sound, and genuinely beneficial for both the NHS and wider community. This project is still being analysed and concluded by the team, so stay tuned!
   </div>
  </div>
 </p>
@@ -29,7 +29,7 @@ permalink: /research/
  </h3>
  <div class="collapse" id="Predictive-EEG">
   <div class="card card-body">
-    This ongoing project aims to investigate how autistic and non-autistic people process and predict the actions of others, and whether knowing the neurotype of the person being observed impacts predictive mechanisms of social perception. We are using electroencephalogram (EEG) recordings to measure brain waves, touch-screen computer responses, and autism questionnaires to explore how social framing and shared neurotype influence perception. This project is still recruiting. If you are interested, please email me at <a href="mailto:Robert.harlow@plymouth.ac.uk">Robert.harlow@plymouth.ac.uk</a>
+    This project aimed to investigate how autistic and non-autistic people process and predict the actions of others, and whether knowing the neurotype of the person being observed impacts predictive mechanisms of social perception. We are using electroencephalogram (EEG) recordings to measure brain waves, touch-screen computer responses, and autism questionnaires to explore how social framing and shared neurotype influence perceptionthrough the double-empathy framework. This project is still being assessed, so stay tuned for updates!
   </div>
  </div>
 </p>
