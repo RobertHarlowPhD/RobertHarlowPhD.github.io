@@ -5,7 +5,7 @@ permalink: /
 ---
 <img src="/assets/img/Me.PNG" alt="Robert Harlow" width="150" style="display: block; margin-left: auto; margin-right: auto; border-radius: 50%;">
 
-Note: I am looking for work! Please check out my LinkedIn for more details [HERE](www.linkedin.com/in/dr-robert-harlow-7328b623b) 
+Note: I am looking for work! Please check out my [LinkedIn](www.linkedin.com/in/dr-robert-harlow-7328b623b) and my [CV](assets/files/
 
 
 I am a Doctor of Psychology who recently achieved a PhD researching predictive social perception within autism. As an autistic person, this project has been very personal to me. I am currently in the exciting period of producing publications that I can present around the world. My latest projects included expanding on my PhD project using EEG, and exploring new ways to diagnose autism with the hopes of reducing NHS waiting times. Outlines of these can be found on the 'research' tab.
