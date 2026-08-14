@@ -5,7 +5,7 @@ permalink: /
 ---
 <img src="/assets/img/Me.PNG" alt="Robert Harlow" width="150" style="display: block; margin-left: auto; margin-right: auto; border-radius: 50%;">
 
-Note: I am looking for work! Please check out my [LinkedIn](www.linkedin.com/in/dr-robert-harlow-7328b623b) and my [CV](assets/files/Dr Robert Harlow - CV.pdf)
+Note: I am looking for work! Please check out my [LinkedIn](www.linkedin.com/in/dr-robert-harlow-7328b623b) and my [CV](assets/Dr Robert Harlow - CV.pdf)
 
 I am a Doctor of Psychology who recently achieved a PhD researching predictive social perception within autism. As an autistic person, this project has been very personal to me. I am currently in the exciting period of producing publications that I can present around the world. My latest projects included expanding on my PhD project using EEG, and exploring new ways to diagnose autism with the hopes of reducing NHS waiting times. Outlines of these can be found on the 'research' tab. I am a skilled data analyist with 5+ years of experience in complex data analytics (R, Jamovi, SPSS), statistical interpretation, and actionable insight creation. I have strong written and spoken communicaiton skills thta have been utilized to teach others at a variety of levels. I have created scientific papers, blogs, community engagement posts, worked with stakeholders including local authority, and presented my work nationally and internationally!
 
