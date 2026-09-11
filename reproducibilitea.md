@@ -11,7 +11,7 @@ permalink: /reproducibilitea/
 
 ## Open Science & ReproducibiliTea
 
-As Local Network Lead for the UK Reproducibility Network at the University of Plymouth, I co-organised ReproducibiliTea, bringing together staff and postgraduate researchers to discuss reproducibility, transparency and open research practices.
+As Local Network Lead for the UK Reproducibility Network at the University of Plymouth, I co-organised [ReproducibiliTea](https://reproducibilitea.org/about/) jornal club, bringing together staff and postgraduate researchers to discuss reproducibility, transparency and open research practices.
 
 The archive below documents topics covered across our sessions, including publication bias, preregistration, open data, reproducible workflows and wider issues in research culture.
 
