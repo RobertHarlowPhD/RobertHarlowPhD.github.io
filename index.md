@@ -8,7 +8,7 @@ permalink: /
 
 ### Dr Robert Harlow
 
-**Behavioural Researcher | Psychology | Neurodiversity | Applied Health Research**
+<p class="role-line"><strong>Behavioural Researcher · Psychology · Neurodiversity · Applied Health Research</strong></p>
 
 I am a behavioural researcher with a PhD in Cognitive Psychology from the University of Plymouth. My research background spans autism, cognitive psychology, neuroscience and neurodiversity, with experience across the full research process, from developing research questions and designing studies through to participant recruitment, data collection, analysis, interpretation and dissemination.
 
