@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 <p>
-My research spans autism, cognitive psychology, behavioural neuroscience and digital assessment. Across my PhD and subsequent research projects, I have worked across the research process, including study design, ethics, participant recruitment, data collection, quantitative analysis and dissemination. I am particularly interested in research that combines rigorous behavioural science with meaningful questions about neurodiversity, accessibility and people's everyday experiences.
+My research spans autism, cognitive psychology, behavioural neuroscience, and digital assessment. Across my PhD and subsequent research projects, I have worked across the research process, including study design, ethics, participant recruitment, data collection, quantitative analysis and dissemination. I am particularly interested in research that combines rigorous behavioural science with meaningful questions about neurodiversity, accessibility and people's everyday experiences.
 </p>
 
 <!-- NCODE - Digital Autism Assessment -->
