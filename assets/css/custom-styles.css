@@ -178,6 +178,44 @@ a:hover {
 }
 
 /* =========================================================
+   OPEN SCIENCE PAGE
+   ========================================================= */
+
+.session-heading {
+  border-bottom: 1px solid #e1e4e8;
+}
+
+.session-heading a {
+  display: grid;
+  grid-template-columns: 85px 1fr auto;
+  gap: 1rem;
+  align-items: center;
+  padding: 1rem 0;
+  text-decoration: none;
+}
+
+.session-heading a:hover {
+  text-decoration: none;
+}
+
+.session-number {
+  color: #3f6f8f;
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+
+.session-title {
+  color: #333;
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+.session-arrow {
+  color: #3f6f8f;
+  font-weight: 600;
+}
+
+/* =========================================================
    MOBILE
    ========================================================= */
 
@@ -190,6 +228,24 @@ a:hover {
 
   .research-project {
     padding: 1.25rem;
+  }
+
+  .session-heading a {
+    grid-template-columns: 1fr auto;
+    gap: 0.3rem 1rem;
+  }
+
+  .session-number {
+    grid-column: 1;
+  }
+
+  .session-title {
+    grid-column: 1;
+  }
+
+  .session-arrow {
+    grid-column: 2;
+    grid-row: 1 / 3;
   }
 
 }
