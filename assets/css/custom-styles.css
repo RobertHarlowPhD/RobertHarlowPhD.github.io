@@ -20,15 +20,33 @@
   padding-left: 30px;
   padding-right: 30px;
 }
+
+
+/* =========================================================
+   SITE COLOUR
+   ========================================================= */
+
+/* Main accent colour */
+a {
+  color: #3f6f8f;
+}
+
+a:hover {
+  color: #345e77;
+}
+
+
+/* =========================================================
+   ABOUT PAGE
+   ========================================================= */
+
+/* Role line beneath name */
 .role-line {
   margin-top: 0.25rem;
   margin-bottom: 1.25rem;
 }
 
-/* =========================================================
-   PROFILE LINKS
-   ========================================================= */
-
+/* LinkedIn and CV buttons */
 .profile-links {
   display: flex;
   gap: 0.75rem;
@@ -39,14 +57,16 @@
 .profile-links a {
   display: inline-block;
   padding: 0.45rem 0.9rem;
-  border: 1px solid #477d9f;
+  border: 1px solid #3f6f8f;
   border-radius: 5px;
+  color: #3f6f8f;
   text-decoration: none;
   font-weight: 600;
 }
 
 .profile-links a:hover {
-  background: #f1f5f8;
+  background: #eef5f8;
+  color: #345e77;
   text-decoration: none;
 }
 
@@ -61,10 +81,10 @@
   margin-bottom: 2.25rem;
 }
 
-
 /* Individual research project */
 .research-project {
   border: 1px solid #e1e4e8;
+  border-top: 3px solid #3f6f8f;
   border-radius: 10px;
   padding: 1.75rem;
   margin-bottom: 1.75rem;
@@ -72,20 +92,17 @@
   box-shadow: 0 3px 10px rgba(0, 0, 0, 0.04);
 }
 
-
 /* Project title */
 .research-project h2 {
   margin-top: 0;
   margin-bottom: 0.65rem;
 }
 
-
 /* Short project summary */
 .research-summary {
   line-height: 1.6;
   margin-bottom: 1rem;
 }
-
 
 /* Research method / topic tags */
 .research-tags {
@@ -97,10 +114,10 @@
   padding: 0.3rem 0.65rem;
   margin: 0 0.35rem 0.4rem 0;
   border-radius: 999px;
-  background: #f1f3f5;
+  background: #eef5f8;
+  color: #345e77;
   font-size: 0.85rem;
 }
-
 
 /* Expand / collapse project link */
 .research-expand {
@@ -111,7 +128,6 @@
 .research-expand:hover {
   text-decoration: underline;
 }
-
 
 /* Expanded project information */
 .research-details {
