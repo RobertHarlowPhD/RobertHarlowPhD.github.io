@@ -49,16 +49,6 @@ body {
 }
 
 
-/* Small category heading */
-.research-kicker {
-  font-size: 0.78rem;
-  font-weight: 700;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  color: #666;
-  margin-bottom: 0.5rem;
-}
-
 
 /* Project title */
 .research-project h2 {
