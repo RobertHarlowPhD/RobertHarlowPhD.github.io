@@ -136,24 +136,6 @@ a:hover {
   border-top: 1px solid #e6e6e6;
 }
 
-
-/* =========================================================
-   MOBILE
-   ========================================================= */
-
-@media (max-width: 768px) {
-
-  .container {
-    padding-left: 20px;
-    padding-right: 20px;
-  }
-
-  .research-project {
-    padding: 1.25rem;
-  }
-
-}
-
 /* =========================================================
    PUBLICATIONS PAGE
    ========================================================= */
@@ -206,3 +188,22 @@ a:hover {
   color: #345e77;
   text-decoration: none;
 }
+
+/* =========================================================
+   MOBILE
+   ========================================================= */
+
+@media (max-width: 768px) {
+
+  .container {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .research-project {
+    padding: 1.25rem;
+  }
+
+}
+
+
