@@ -20,11 +20,35 @@
   padding-left: 30px;
   padding-right: 30px;
 }
+.navbar {
+  background: #f1f6f8 !important;
+  border-bottom: 1px solid #dbe6eb;
+}
 
 
 /* =========================================================
    SITE COLOUR
    ========================================================= */
+
+/* Soft page background */
+body {
+  background: #f7fafc;
+}
+
+/* Main content stays clean and white */
+.page-content {
+  background: #ffffff;
+}
+
+/* Main page headings */
+h1 {
+  color: #2f5d78;
+}
+
+/* Section headings */
+h2 {
+  color: #345e77;
+}
 
 /* Main accent colour */
 a {
@@ -32,7 +56,7 @@ a {
 }
 
 a:hover {
-  color: #345e77;
+  color: #2f5d78;
 }
 
 
