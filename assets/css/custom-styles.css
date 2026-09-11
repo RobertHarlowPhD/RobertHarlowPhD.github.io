@@ -156,9 +156,14 @@ a:hover {
 }
 
 .publication-status {
-  margin-bottom: 0.35rem;
-  color: #3f6f8f;
-  font-size: 0.9rem;
+  display: inline-block;
+  margin-bottom: 0.6rem;
+  padding: 0.25rem 0.55rem;
+  background: #eef5f8;
+  color: #345e77;
+  border-radius: 4px;
+  font-size: 1rem;
+  font-weight: 600;
 }
 
 .publication-title {
