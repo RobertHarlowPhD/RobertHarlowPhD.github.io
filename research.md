@@ -4,18 +4,30 @@ title: "My Research"
 permalink: /research/
 ---
 
-<!-- NCODE - AI Assisted Autism Diagnosis -->
+<p>
+My research spans autism, cognitive psychology, behavioural neuroscience and digital assessment. Across my PhD and subsequent research projects, I have worked across the research process, including study design, ethics, participant recruitment, data collection, quantitative analysis and dissemination. I am particularly interested in research that combines rigorous behavioural science with meaningful questions about neurodiversity, accessibility and people's everyday experiences.
+</p>
+
+<!-- NCODE - Digital Autism Assessment -->
 <p>
  <h3>
   <a data-toggle="collapse" href="#NCODE-AI" role="button" aria-expanded="false" aria-controls="NCODE-AI">
-    NCODE - AI Assisted Autism Diagnosis ↓
+    NCODE – Digital Autism Assessment ↓
   </a>
  </h3>
  <div class="collapse" id="NCODE-AI">
   <div class="card card-body">
-    There remains significant pressure on the NHS and their wait times for an autism diagnosis. This strain has a huge cost on the resources and well-being of those involved. This project aimed to provide new methods of diagnostic assistance to tackle these wait times. This initiative used next-generation tools for testing neurodevelopmental conditions in everyday settings. The project utilized neuroscience methods, such as functional Near Infrared Spectroscopy (fNIRS) to measure brainwaves, voice analysis, sleep measures, and AI approaches to identify reliable biological and behavioural markers of autism. The central goal is to move diagnostic and monitoring technologies beyond clinical settings to a more affordable, efficient, and inclusive alternative. From analogue to digital! 
-   
-   Co-designing this process with autistic community groups, clinicians, and data scientists could help produce tools that are scientifically valid, ethically sound, and genuinely beneficial for both the NHS and wider community. This project is still being analysed and concluded by the team, so stay tuned!
+    <p>
+    Long waiting times for autism assessment place considerable pressure on individuals, families and NHS services. The NCODE project explored how new technologies could contribute to the development of more accessible and efficient approaches to autism assessment.
+    </p>
+
+    <p>
+    The wider project brought together a range of approaches, including functional near-infrared spectroscopy (fNIRS), voice analysis, sleep measures and computational methods, to investigate potential biological and behavioural markers associated with autism. The research aimed to explore how assessment technologies might eventually be used beyond traditional clinical settings while remaining scientifically robust, ethical and accessible.
+    </p>
+
+    <p>
+    My work on the project involved participant-facing research within a multidisciplinary team, collecting mixed-methods data, and collaborating across institutions. The project also involved engagement with autistic people and clinicians, helping to ensure that the development of new approaches considered the experiences and needs of the communities they are intended to support.
+    </p>
   </div>
  </div>
 </p>
@@ -29,7 +41,17 @@ permalink: /research/
  </h3>
  <div class="collapse" id="Predictive-EEG">
   <div class="card card-body">
-    This project aimed to investigate how autistic and non-autistic people process and predict the actions of others, and whether knowing the neurotype of the person being observed impacts predictive mechanisms of social perception. We are using electroencephalogram (EEG) recordings to measure brain waves, touch-screen computer responses, and autism questionnaires to explore how social framing and shared neurotype influence perceptionthrough the double-empathy framework. This project is still being assessed, so stay tuned for updates!
+    <p>
+    This project investigated how autistic and non-autistic people process and predict the actions of others, including whether knowledge about the neurotype of the person being observed influences predictive mechanisms of social perception.
+    </p>
+
+    <p>
+    The study combined electroencephalography (EEG), touchscreen behavioural responses and autism-related questionnaires to examine how social framing and shared neurotype may influence perception within the context of the double empathy problem.
+    </p>
+
+    <p>
+    My work involved participant-facing experimental research and the collection and analysis of behavioural and neuroscience data. The project builds on questions developed through my PhD while using EEG to investigate the neural processes associated with predictive social perception.
+    </p>
   </div>
  </div>
 </p>
@@ -38,25 +60,31 @@ permalink: /research/
 <p>
  <h3>
   <a data-toggle="collapse" href="#MyPhD" role="button" aria-expanded="false" aria-controls="MyPhD">
-    My PhD – Predictive Perception in Autism ↓
+    PhD – Predictive Perception in Autism ↓
   </a>
  </h3>
  <div class="collapse" id="MyPhD">
   <div class="card card-body">
-    <h4><em>My PhD - Predictive Perception in Autism</em></h4>
 
-    <p><strong>PDF:</strong> <a href="https://researchportal.plymouth.ac.uk/en/studentTheses/predictive-perception-in-autism/" target="_blank" rel="noopener">Here</a></p>
-<p><strong>Citation:</strong> Harlow, R. (2025). Predictive perception in autism (PhD thesis, University of Plymouth). https://doi.org/10.24382/a2qy-yq54 </p>
+    <p><strong>Thesis:</strong> <a href="https://researchportal.plymouth.ac.uk/en/studentTheses/predictive-perception-in-autism/" target="_blank" rel="noopener">Predictive Perception in Autism</a></p>
 
+    <p><strong>Citation:</strong> Harlow, R. (2025). <em>Predictive perception in autism</em> (PhD thesis, University of Plymouth). https://doi.org/10.24382/a2qy-yq54</p>
 
-    <p>My thesis investigated how predictive perception, motor coordination, and neurotype differences influence social perception in autism. It explored how these mechanisms contribute to social difficulties faced by autistic people, through the lens of the double empathy problem and second-person neuroscience.</p>
+    <p>
+    My thesis investigated how predictive perception, motor coordination and neurotype differences influence social perception in autism. It explored how these mechanisms may contribute to social difficulties experienced by autistic people through the lens of the double empathy problem and second-person neuroscience.
+    </p>
 
-    <p>Firstly, I investigated how spoken intentions and visual evidence guide predictive social perception. Across four experiments, results supported a dual-process model whereby top-down expectations shape early perception but are overridden by visual input once motion begins. This led to the ‘kinematic dominance hypothesis’, suggesting motion cues dominate perception once movement begins due to their higher precision in predictive social perception.</p>
+    <p>
+    Firstly, I investigated how spoken intentions and visual evidence guide predictive social perception. Across four experiments, results supported a dual-process model whereby top-down expectations shape early perception but are overridden by visual input once motion begins. This led to the 'kinematic dominance hypothesis', suggesting that motion cues dominate perception once movement begins due to their higher precision in predictive social perception.
+    </p>
 
-    <p>Secondly, I used high-resolution active motion capture to analyse autistic motor coordination. Autistic participants showed differences in speed and amplitude of motion during complex tasks when compared to non-autistic participants. These differences correlated with communication and camouflaging traits, suggesting motor differences may influence how autistic actions are interpreted in everyday contexts, with emphasis on differences in movement in achieving task goals, not 'deficits in ability'.</p>
+    <p>
+    Secondly, I used high-resolution active motion capture to investigate upper-limb motor coordination in autistic and non-autistic adults. The research examined characteristics of movement including amplitude, acceleration and movement trajectories, alongside within-participant variability. The findings highlighted differences in how movements were performed rather than framing these differences as deficits in ability.
+    </p>
 
-    <p>Finally, I tested the double empathy problem through predictive perception and diagnostic framing. Non-autistic participants altered perception when told the actor was autistic, despite identical kinematics. Autistic participants showed stable perception regardless of actor neurotype. These findings bridge predictive perception and the double empathy problem, highlighting that difficulties experienced in autism may stem from environmental and relational factors, including assumptions of autistic behaviour by non-autistic observers, rather than measures of ability.</p>
+    <p>
+    Finally, I tested the double empathy problem through predictive perception and diagnostic framing. Non-autistic participants altered their perception when told that the actor was autistic, despite viewing identical kinematics. Autistic participants showed more stable perception regardless of actor neurotype. These findings connect predictive perception with the double empathy problem and suggest that some difficulties experienced by autistic people may arise from environmental and relational factors, including how autistic behaviour is interpreted by others.
+    </p>
   </div>
  </div>
 </p>
-
