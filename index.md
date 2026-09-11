@@ -1,14 +1,21 @@
 ---
 layout: page
-title: "About Me"
+title: "Dr Robert Harlow — Behavioural Researcher"
+Psychology | Neurodiversity | Applied Health Research
 permalink: /
 ---
 <img src="/assets/img/Me.PNG" alt="Robert Harlow" width="150" style="display: block; margin-left: auto; margin-right: auto; border-radius: 50%;">
 
-Note: I am looking for work! Please check out my [LinkedIn](https://www.linkedin.com/in/dr-robert-harlow-7328b623b) and my [CV](assets/Dr Robert Harlow - CV.pdf).
+I am currently looking for my next research role. You can find me on [LinkedIn](www.linkedin.com/in/dr-robert-harlow-7328b623b) and view my [CV].
 
-I am a Doctor of Psychology who recently achieved a PhD researching predictive social perception within autism. As an autistic person, this project has been very personal to me. I am currently in the exciting period of producing publications that I can share with everyone! My latest projects included examining autisic perception using EEG, and exploring new ways to diagnose autism with the hopes of reducing NHS waiting times. Outlines of these can be found on the 'research' tab. I am a skilled data analyist with 5+ years of experience in complex data analytics (R, Jamovi, SPSS), statistical interpretation, and actionable insight creation. I have strong written and spoken communicaiton skills that have been utilized to teach others at a variety of levels. I have created scientific papers, blogs, community engagement posts, worked with stakeholders including local authority, and presented my work nationally and internationally!
+I am a behavioural researcher with a PhD in Cognitive Psychology from the University of Plymouth. My research background spans autism, cognitive psychology, neuroscience and neurodiversity, with experience across the full research process, from developing research questions and designing studies through to participant recruitment, data collection, analysis, interpretation and dissemination.
 
-In addition, I co-organized the ReproducibiliTea journal club as a part of my role as Local Network Lead for the [UK Reproducibility Network (UKRN)](https://www.ukrn.org/) while at University of Plymouth. This club promotes and discusses the importance of open and reproducible research through bi-weekly meetings, engaging both staff and research students. I have spoken on panels about this topic, attended international meetings, and collaborted with external stakeholders. 
+My PhD investigated predictive social perception in autism, and as an autistic researcher this work has also been personally meaningful to me. Since completing my PhD, I have worked on research examining autistic perception using EEG and on the NCODE project which digital approaches to autism assessment. You can find more information about these projects under the Research tab.
 
-Outside of my research, I also have avid interests in emotion analytics, autism and neurodiversity advocacy, and climate science. In my spare time, I am a professional storm chaser and company Director for [UK Weather Chase CIC](https://www.facebook.com/UKWeatherChase/?locale=en_GB), with skills in reading radar and computer model outputs. I also enjoy making music, and engaging with the fire and flow arts community as a trained fire spinner for private events. 
+I have over five years of experience working with quantitative research and complex datasets, including statistical analysis using R, SPSS and Jamovi. Alongside this, I have experience in participant and community engagement, qualitative research, and communicating research to a range of audiences. I have written scientific papers and public-facing material, worked with external stakeholders, and presented research nationally and internationally.
+
+For the next stage of my career, I am particularly interested in applied research where there is a clear route from evidence to improving health, services, interventions or people's lives. I am especially interested in opportunities involving applied health research, evaluation, behavioural science, neurodevelopment, and psychological or cognitive assessment. I am based in Plymouth and am particularly interested in opportunities across the South West or genuinely remote roles within the UK.
+
+I am also passionate about open and reproducible research. At the University of Plymouth, I served as a Local Network Lead for the [UK Reproducibility Network](https://www.ukrn.org/) (UKRN) and co-organised the ReproducibiliTea journal club. This involved bringing researchers together to discuss open and reproducible research practices, as well as contributing to panels, meetings and wider conversations about research culture.
+
+Outside of research, I have interests in neurodiversity advocacy and climate and weather science. I am a Director of [UK Weather Chase CIC](https://www.facebook.com/UKWeatherChase/?locale=en_GB), where I combine my interest in severe weather with public engagement, scientific communication, and organisational work. In my spare time, I also enjoy making music, climbing, and taking part in the fire and flow arts community as a trained fire performer.
