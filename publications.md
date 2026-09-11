@@ -23,12 +23,13 @@ My published research, doctoral thesis, and ongoing research outputs are listed 
   </p>
 
   <p>
-    <a href="https://doi.org/10.3758/s13423-026-02993-6"
-       target="_blank"
-       rel="noopener">View publication →</a>
-  </p>
-
-</div>
+  <a href="https://doi.org/10.3758/s13423-026-02993-6"
+     target="_blank"
+     rel="noopener">View publication →</a><br>
+  <a href="https://osf.io/a4ypb/overview?view_only=3f330a4e7ebf47049041dcaf5d74da4b"
+     target="_blank"
+     rel="noopener">OSF</a>
+</p>
 
 
 <div class="publication-entry">
