@@ -5,7 +5,7 @@ subtitle: "Psychology | Neurodiversity | Applied Health Research"
 permalink: /
 ---
 
-<img src="/assets/img/Me.PNG" alt="Robert Harlow" width="150" style="display: block; margin-left: auto; margin-right: auto; border-radius: 50%;">
+<img src="/assets/img/20260719_122215.jpg" alt="Robert Harlow" width="150" style="display: block; margin-left: auto; margin-right: auto; border-radius: 50%;">
 
 **I am currently looking for my next research role.** You can find me on [LinkedIn](https://www.linkedin.com/in/dr-robert-harlow-7328b623b) and view my [CV](/assets/Dr%20Robert%20Harlow%20-%20CV.pdf).
 
