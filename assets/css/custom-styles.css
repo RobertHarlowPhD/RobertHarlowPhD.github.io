@@ -1,24 +1,19 @@
-strong, strong + a {
-  display: inline !important;
-  white-space: nowrap;
-  margin-right: 0.5em; /* spacing between PDF: and Here */
-}
+/* =========================================================
+   SITE LAYOUT
+   ========================================================= */
 
-
-/* Make sure the navbar height is accounted for in page layout */
+/* Navbar spacing */
 .navbar {
   padding-top: 0.7rem !important;
   padding-bottom: 0.7rem !important;
-  height: 60px;
 }
 
-/* Add padding at the top of the page so content isn't hidden behind fixed navbar */
+/* Keep page content clear of the fixed navbar */
 .page-content {
   padding-top: 100px !important;
 }
 
-
-/* Make all containers full width */
+/* Comfortable maximum width on larger screens */
 .container {
   max-width: 1100px !important;
   width: 100% !important;
@@ -26,46 +21,70 @@ strong, strong + a {
   padding-right: 30px;
 }
 
-body {
-  background-color: lightblue !important;
+
+/* =========================================================
+   PROFILE LINKS
+   ========================================================= */
+
+.profile-links {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  margin: 1.25rem 0;
 }
 
-/* Research page introduction */
+.profile-links a {
+  display: inline-block;
+  padding: 0.45rem 0.9rem;
+  border: 1px solid #477d9f;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.profile-links a:hover {
+  background: #f1f5f8;
+  text-decoration: none;
+}
+
+
+/* =========================================================
+   RESEARCH PAGE
+   ========================================================= */
+
+/* Introductory paragraph */
 .research-intro {
-  font-size: 1.05rem;
-  line-height: 1.75;
-  margin-bottom: 2.5rem;
+  line-height: 1.7;
+  margin-bottom: 2.25rem;
 }
 
 
-/* Research project cards */
+/* Individual research project */
 .research-project {
   border: 1px solid #e1e4e8;
-  border-radius: 12px;
-  padding: 2rem;
-  margin-bottom: 2rem;
+  border-radius: 10px;
+  padding: 1.75rem;
+  margin-bottom: 1.75rem;
   background: #ffffff;
-  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.05);
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.04);
 }
-
 
 
 /* Project title */
 .research-project h2 {
   margin-top: 0;
-  margin-bottom: 0.75rem;
+  margin-bottom: 0.65rem;
 }
 
 
-/* Short project description */
+/* Short project summary */
 .research-summary {
-  font-size: 1.05rem;
   line-height: 1.6;
   margin-bottom: 1rem;
 }
 
 
-/* Method tags */
+/* Research method / topic tags */
 .research-tags {
   margin-bottom: 1.25rem;
 }
@@ -80,7 +99,7 @@ body {
 }
 
 
-/* Expand / collapse link */
+/* Expand / collapse project link */
 .research-expand {
   font-weight: 600;
   text-decoration: none;
@@ -91,7 +110,7 @@ body {
 }
 
 
-/* Expanded project text */
+/* Expanded project information */
 .research-details {
   margin-top: 1.5rem;
   padding-top: 1.25rem;
@@ -99,82 +118,19 @@ body {
 }
 
 
-/* Mobile spacing */
+/* =========================================================
+   MOBILE
+   ========================================================= */
+
 @media (max-width: 768px) {
+
+  .container {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
   .research-project {
     padding: 1.25rem;
   }
-}
 
-
-/* About page introduction */
-.about-intro {
-  font-size: 1.08rem;
-  line-height: 1.75;
-  margin-top: 1.25rem;
-}
-
-
-/* LinkedIn and CV buttons */
-.profile-links {
-  display: flex;
-  gap: 0.75rem;
-  flex-wrap: wrap;
-  margin: 1.5rem 0 1rem 0;
-}
-
-.profile-links a {
-  display: inline-block;
-  padding: 0.55rem 1rem;
-  border: 1px solid #477d9f;
-  border-radius: 6px;
-  text-decoration: none;
-  font-weight: 600;
-}
-
-.profile-links a:hover {
-  background: #f1f5f8;
-  text-decoration: none;
-}
-
-
-/* Current availability */
-.availability-note {
-  margin-top: 0.75rem;
-  margin-bottom: 2.5rem;
-}
-
-
-/* Four capability cards */
-.skills-grid {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 1rem;
-  margin: 1.5rem 0 2.5rem 0;
-}
-
-.skill-card {
-  border: 1px solid #e1e4e8;
-  border-radius: 10px;
-  padding: 1.4rem;
-  background: #ffffff;
-}
-
-.skill-card h3 {
-  margin-top: 0;
-  margin-bottom: 0.6rem;
-  font-size: 1.15rem;
-}
-
-.skill-card p {
-  margin-bottom: 0;
-  line-height: 1.55;
-}
-
-
-/* Stack capability cards on smaller screens */
-@media (max-width: 768px) {
-  .skills-grid {
-    grid-template-columns: 1fr;
-  }
 }
