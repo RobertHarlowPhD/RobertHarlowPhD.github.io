@@ -1,9 +1,10 @@
 ---
 layout: page
-title: "Dr Robert Harlow — Behavioural Researcher"
-subtitle: "Psychology | Neurodiversity | Applied Health Research"
+title: "About Me"
 permalink: /
 ---
+### Dr Robert Harlow
+**Behavioural Researcher | Psychology, Neurodiversity & Applied Health Research**
 
 <img src="/assets/img/20260719_122215.jpg" alt="Robert Harlow" width="150" style="display: block; margin-left: auto; margin-right: auto; border-radius: 50%;">
 
