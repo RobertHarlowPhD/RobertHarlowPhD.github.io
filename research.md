@@ -58,7 +58,7 @@ My research spans autism, cognitive psychology, behavioural neuroscience and dig
 <!-- EEG -->
 <div class="research-project">
 
-  <h2>Predictive Social Perception in Autism</h2>
+  <h2>EEG and social prediction in Autism</h2>
 
   <p class="research-summary">
   Investigating how autistic and non-autistic people predict the actions of others using EEG and behavioural methods.
