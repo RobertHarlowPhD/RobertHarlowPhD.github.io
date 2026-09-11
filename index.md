@@ -9,7 +9,7 @@ permalink: /
 
 
 
-**I am currently looking for my next research role.**Connect with me on [LinkedIn](https://www.linkedin.com/in/dr-robert-harlow-7328b623b) and have a look at my [CV](/assets/Dr%20Robert%20Harlow%20-%20CV.pdf).
+**I am currently looking for my next research role.**Connect with me on [LinkedIn](https://www.linkedin.com/in/dr-robert-harlow-7328b623b)and have a look at my [CV](/assets/Dr%20Robert%20Harlow%20-%20CV.pdf).
 
 I am a behavioural researcher with a PhD in Cognitive Psychology from the University of Plymouth. My research background spans autism, cognitive psychology, neuroscience and neurodiversity, with experience across the full research process, from developing research questions and designing studies through to participant recruitment, data collection, analysis, interpretation and dissemination.
 
