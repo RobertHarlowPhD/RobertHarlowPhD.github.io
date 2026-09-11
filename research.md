@@ -12,7 +12,7 @@ My research spans autism, cognitive psychology, behavioural neuroscience and dig
 <!-- NCODE -->
 <div class="research-project">
 
-  <h2>NCODE</h2>
+  <h2>NCODE - Digital Autism Assessment</h2>
 
   <p class="research-summary">
   Exploring multimodal approaches that could contribute to more accessible and efficient autism assessment.
