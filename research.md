@@ -116,6 +116,8 @@ My research spans autism, cognitive psychology, behavioural neuroscience and dig
     <span>Autism</span>
     <span>R</span>
     <span>SPSS</span>
+    <span>Jamovi</span>
+    <span>OpenSesame</span>
   </div>
 
   <a class="research-expand" data-toggle="collapse" href="#MyPhD" role="button" aria-expanded="false" aria-controls="MyPhD">
