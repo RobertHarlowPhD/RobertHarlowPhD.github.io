@@ -4,18 +4,65 @@ title: "Publications"
 permalink: /publications/
 ---
 
-Here you can find my published research, doctoral thesis, and ongoing research outputs.
+<p class="publications-intro">
+My published research, doctoral thesis, and ongoing research outputs are listed below.
+</p>
 
-### Peer-reviewed Publications
 
-Harlow, R., Biggs, H., Bach, P. *et al.* (2026). **You still intend to move: Inferred mental states imply motion to static body postures.** *Psychonomic Bulletin & Review, 33*, 213.  
-[View publication](https://doi.org/10.3758/s13423-026-02993-6)
+<div class="publication-entry">
 
-### Manuscripts Under Review
+  <div class="publication-type">Peer-reviewed article</div>
 
-Harlow, R., Marsden, J., Bach, P. *et al.* (2026). **Predictive Social Perception and Double Empathy: Autistic Disclosure Affects Action Understanding by Non-Autistic Observers.** *Autism*. Manuscript under review.
+  <h3>
+    You still intend to move: Inferred mental states imply motion to static body postures
+  </h3>
 
-### Doctoral Thesis
+  <p>
+    Harlow, R., Biggs, H., Bach, P. <em>et al.</em> (2026).
+    <em>Psychonomic Bulletin &amp; Review, 33</em>, 213.
+  </p>
 
-Harlow, R. (2025). **Predictive Perception in Autism.** PhD thesis, University of Plymouth.  
-[View thesis](https://doi.org/10.24382/a2qy-yq54)
+  <a class="publication-link"
+     href="https://doi.org/10.3758/s13423-026-02993-6"
+     target="_blank"
+     rel="noopener">
+    View publication
+  </a>
+
+</div>
+
+
+<div class="publication-entry">
+
+  <div class="publication-type">Manuscript under review</div>
+
+  <h3>
+    Predictive Social Perception and Double Empathy: Autistic Disclosure Affects Action Understanding by Non-Autistic Observers
+  </h3>
+
+  <p>
+    Harlow, R., Marsden, J., Bach, P. <em>et al.</em> (2026).
+    <em>Autism</em>. Manuscript under review.
+  </p>
+
+</div>
+
+
+<div class="publication-entry">
+
+  <div class="publication-type">Doctoral thesis</div>
+
+  <h3>Predictive Perception in Autism</h3>
+
+  <p>
+    Harlow, R. (2025). PhD thesis, University of Plymouth.
+  </p>
+
+  <a class="publication-link"
+     href="https://doi.org/10.24382/a2qy-yq54"
+     target="_blank"
+     rel="noopener">
+    View thesis
+  </a>
+
+</div>
