@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 <p class="publications-intro">
-My published research, doctoral thesis, and ongoing research outputs are listed below.
+My published research, doctoral thesis, and ongoing research outputs are listed below. Recent projects that are still being finalised will feature here soon.
 </p>
 
 
