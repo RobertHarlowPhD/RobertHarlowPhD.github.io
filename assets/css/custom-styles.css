@@ -20,7 +20,10 @@
   padding-left: 30px;
   padding-right: 30px;
 }
-
+.role-line {
+  margin-top: 0.25rem;
+  margin-bottom: 1.25rem;
+}
 
 /* =========================================================
    PROFILE LINKS
