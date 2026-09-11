@@ -43,6 +43,6 @@ Outside of research, I have interests in neurodiversity advocacy and climate and
 
 In my spare time, I also enjoy making music, reading, climbing, and taking part in the fire and flow arts community as a trained fire performer.
 
-Thanks for reading.
+Thanks for reading,
 
-**Robert — the fire-spinning, storm-chasing neuroscientist!**
+**Robert — the firespinning, stormchasing neuroscientist!**
