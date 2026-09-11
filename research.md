@@ -12,8 +12,6 @@ My research spans autism, cognitive psychology, behavioural neuroscience and dig
 <!-- NCODE -->
 <div class="research-project">
 
-  <div class="research-kicker">DIGITAL AUTISM ASSESSMENT</div>
-
   <h2>NCODE</h2>
 
   <p class="research-summary">
@@ -60,8 +58,6 @@ My research spans autism, cognitive psychology, behavioural neuroscience and dig
 <!-- EEG -->
 <div class="research-project">
 
-  <div class="research-kicker">SOCIAL PERCEPTION & NEUROSCIENCE</div>
-
   <h2>Predictive Social Perception in Autism</h2>
 
   <p class="research-summary">
@@ -107,8 +103,6 @@ My research spans autism, cognitive psychology, behavioural neuroscience and dig
 
 <!-- PhD -->
 <div class="research-project">
-
-  <div class="research-kicker">DOCTORAL RESEARCH</div>
 
   <h2>Predictive Perception in Autism</h2>
 
