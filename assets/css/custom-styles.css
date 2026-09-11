@@ -221,6 +221,14 @@ a:hover {
 
 @media (max-width: 768px) {
 
+   .navbar-brand {
+    max-width: 240px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
+
+}
    .page-content {
   padding-top: 165px !important;
 }
