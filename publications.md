@@ -57,7 +57,7 @@ My published research, doctoral thesis, and ongoing research outputs are listed 
   </p>
 
   <p class="publication-citation">
-    Harlow, R. (2025) Predictive Perception in Autism. Thesis. University of Plymouth. Available at: https://doi.org/10.24382/a2qy-yq54
+    Harlow, R. (2025) Predictive Perception in Autism. Thesis. University of Plymouth.
   </p>
 
   <p>
