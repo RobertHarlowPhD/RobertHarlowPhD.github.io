@@ -35,7 +35,7 @@ My interests include applied health research, evaluation, behavioural science, n
 
 I am passionate about open and reproducible research. At the University of Plymouth, I served as a Local Network Lead for the [UK Reproducibility Network](https://www.ukrn.org/) (UKRN) and co-organised the ReproducibiliTea journal club.
 
-This involved bringing researchers together to discuss open and reproducible research practices, as well as contributing to panels, meetings and wider conversations about research culture.
+This involved bringing researchers together to discuss open and reproducible research practices, as well as contributing to panels, meetings and wider conversations about research culture. You can learn more about this on the [Open Science](https://www.robertharlowphd.com/reproducibilitea/) page.
 
 ## Beyond research
 
