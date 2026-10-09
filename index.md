@@ -10,7 +10,7 @@ permalink: /
 
 <p class="role-line"><strong>Behavioural Researcher · Psychology · Neurodiversity · Applied Health Research</strong></p>
 
-In 2025, I graduated PhD in Cognitive Psychology from the University of Plymouth. After a fantstic journey within academia, I have progeessed onwards as a Evaluative Researcher with [Health Innovations South West](https://healthinnovationsouthwest.com/) I have specialisms in autism, cognitive psychology, neuroscience, and neurodiversity. I hold experience across the full research process, from developing research questions and designing studies, through to participant recruitment, data collection, analysis, interpretation, and dissemination. 
+In 2025, I graduated PhD in Cognitive Psychology from the University of Plymouth. After a fantstic journey within academia, I have progeessed onwards as a Evaluative Researcher with [Health Innovations South West](https://healthinnovationsouthwest.com/). I have specialisms in autism, cognitive psychology, neuroscience, and neurodiversity. I hold experience across the full research process, from developing research questions and designing studies, through to participant recruitment, data collection, analysis, interpretation, and dissemination. 
 
 <div class="profile-links">
   <a href="https://www.linkedin.com/in/dr-robert-harlow-7328b623b" target="_blank" rel="noopener">LinkedIn</a>
