@@ -10,7 +10,7 @@ permalink: /
 
 <p class="role-line"><strong>Behavioural Researcher · Psychology · Neurodiversity · Applied Health Research</strong></p>
 
-In 2025, I graduated PhD in Cognitive Psychology from the University of Plymouth. After a fantstic journey within academia, I have progeessed onwards as a Evaluative Researcher with [Health Innovations South West](https://healthinnovationsouthwest.com/). I have specialisms in autism, cognitive psychology, neuroscience, and neurodiversity. I hold experience across the full research process, from developing research questions and designing studies, through to participant recruitment, data collection, analysis, interpretation, and dissemination. 
+In 2025, I graduated my PhD in Cognitive Psychology from the University of Plymouth. After a fantstic journey within academia, I have progessed onwards as a Evaluative Researcher with [Health Innovations South West](https://healthinnovationsouthwest.com/). I have specialisms in autism, cognitive psychology, neuroscience, and neurodiversity. I hold experience across the full research process, from developing research questions and designing studies, through to participant recruitment, data collection, analysis, interpretation, and dissemination. 
 
 <div class="profile-links">
   <a href="https://www.linkedin.com/in/dr-robert-harlow-7328b623b" target="_blank" rel="noopener">LinkedIn</a>
@@ -21,28 +21,26 @@ In 2025, I graduated PhD in Cognitive Psychology from the University of Plymouth
 
 ## Research background
 
-My PhD investigated predictive social perception in autism, and as an autistic researcher this work has also been personally meaningful to me. Since completing my PhD, I have worked on research examining autistic perception using EEG and on the NCODE project, which explored digital approaches to autism assessment. You can find more information about these projects on the [Research](/research/) page.
+My PhD investigated predictive social perception in autism, and as an autistic researcher, this work has been personally meaningful to me. Since completing my PhD, I have worked on research examining autistic perception using EEG and on the NCODE project, which explored digital approaches to autism assessment. You can find more information about these projects on the [Research](/research/) page.
 
-I have over five years of experience working with quantitative research and complex datasets, including statistical analysis using R, SPSS and Jamovi. Alongside this, I have experience in participant and community engagement, qualitative research, and communicating research to a range of audiences. I have written scientific papers and public-facing material, worked with external stakeholders, and presented research nationally and internationally.
+I have over five years of experience working with quantitative research and complex datasets, including statistical analysis using R, SPSS, and Jamovi. Alongside this, I have experience in participant and community engagement, qualitative research, and communicating research to a range of audiences. I have written scientific papers and public-facing material, worked with external stakeholders, and presented research nationally and internationally.
 
 ## Research interests
 
-I am particularly interested in applied research where there is a clear route from evidence to improving health, services, interventions or people's lives.
-
-My interests include applied health research, evaluation, behavioural science, neurodevelopment, and psychological or cognitive assessment. I am based in Plymouth and am particularly interested in opportunities across the South West or genuinely remote roles within the UK.
+I am particularly interested in applied research where there is a clear route from evidence to improving health, services, interventions or people's lives; particularly where neurodiversity is involved. My interests include applied health research, evaluation, behavioural science, neurodevelopment, and psychological or cognitive assessment.    
 
 ## Open research
 
-I am passionate about open and reproducible research. At the University of Plymouth, I served as a Local Network Lead for the [UK Reproducibility Network](https://www.ukrn.org/) (UKRN) and co-organised the ReproducibiliTea journal club.
+I am also passionate about open and reproducible research. At the University of Plymouth, I served as a Local Network Lead for the [UK Reproducibility Network](https://www.ukrn.org/) (UKRN) and co-organised the ReproducibiliTea journal club.
 
 This involved bringing researchers together to discuss open and reproducible research practices, as well as contributing to panels, meetings and wider conversations about research culture. You can learn more about this on the [Open Science](https://www.robertharlowphd.com/reproducibilitea/) page.
 
 ## Beyond research
 
-Outside of research, I have interests in neurodiversity advocacy and climate and weather science. I am a Director of [UK Weather Chase CIC](https://www.facebook.com/UKWeatherChase/?locale=en_GB), where I combine my interest in severe weather with public engagement, scientific communication and organisational work.
+Outside of research, I have interests in neurodiversity advocacy, as well as climate and weather science. I am a Director of [UK Weather Chase CIC](https://www.facebook.com/UKWeatherChase/?locale=en_GB), where I combine my interest in severe weather with public engagement, scientific communication and organisational work. This has progressed into an Amazon Prime documentary that is currently being filmed throughout the 2026/27 storm season.
 
-In my spare time, I also enjoy making music, reading, climbing, and taking part in the fire and flow arts community as a trained fire performer.
+Beyond this, I also enjoy making music, reading, climbing, and taking part in the fire and flow arts community as a trained fire performer for private events and festivals.
 
 Thanks for reading,
 
-**Robert — the firespinning, stormchasing neuroscientist!**
+**Robert — the firespinning stormchasing neuroscientist!**
