@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 <p class="research-intro">
-My research spans autism, cognitive psychology, behavioural neuroscience and digital assessment. Across my PhD and subsequent research projects, I have worked across the research process, including study design, ethics, participant recruitment, data collection, quantitative analysis and dissemination. I am particularly interested in research that combines rigorous behavioural science with meaningful questions about neurodiversity, accessibility and people's everyday experiences.
+My research spans autism, cognitive psychology, behavioural neuroscience, and digital assessment. Across my PhD and subsequent research projects, I have worked across the research process, including study design, ethics, participant recruitment, data collection, quantitative analysis, and dissemination. I am particularly interested in research that combines rigorous behavioural science with meaningful questions about neurodiversity, accessibility, and people's everyday experiences.
 </p>
 
 
@@ -46,7 +46,7 @@ My research spans autism, cognitive psychology, behavioural neuroscience and dig
       </p>
 
       <p>
-      The project aimed to explore how emerging assessment technologies might support more efficient and inclusive approaches to autism assessment while remaining scientifically robust, ethical and acceptable to the people who may ultimately use them.
+      The project aimed to explore how emerging assessment technologies might support more efficient and inclusive approaches to autism assessment while remaining scientifically robust, ethical, and acceptable to the people who may ultimately use them.
       </p>
 
     </div>
@@ -84,11 +84,11 @@ My research spans autism, cognitive psychology, behavioural neuroscience and dig
       </p>
 
       <p>
-      The study combined electroencephalography (EEG), touchscreen behavioural responses and autism-related questionnaires to examine how social framing and shared neurotype may influence perception within the context of the double empathy problem.
+      The study combined electroencephalography (EEG), touchscreen behavioural responses, and autism-related questionnaires to examine how social framing and shared neurotype may influence perception within the context of the double empathy problem.
       </p>
 
       <p>
-      My role involved developing experimental stimuli, advertising the study, recruiting participants and collecting EEG data. This gave me further experience in participant-facing neuroscience research and in delivering controlled experimental protocols with autistic and non-autistic participants.
+      My role involved developing experimental stimuli, advertising the study, recruiting participants, and collecting EEG data. This gave me further experience in participant-facing neuroscience research and in delivering controlled experimental protocols with autistic and non-autistic participants.
       </p>
 
       <p>
@@ -107,7 +107,7 @@ My research spans autism, cognitive psychology, behavioural neuroscience and dig
   <h2>Predictive Perception in Autism</h2>
 
   <p class="research-summary">
-  Investigating predictive social perception, motor coordination and neurotype differences through behavioural experiments and motion capture.
+  Investigating predictive social perception, motor coordination, and neurotype differences through behavioural experiments and motion capture technology.
   </p>
 
   <div class="research-tags">
@@ -135,19 +135,19 @@ My research spans autism, cognitive psychology, behavioural neuroscience and dig
       </p>
 
       <p>
-      My thesis investigated how predictive perception, motor coordination and neurotype differences influence social perception in autism. It explored how these mechanisms may contribute to social difficulties experienced by autistic people through the lens of the double empathy problem and second-person neuroscience.
+      My thesis investigated how predictive perception, motor coordination, and neurotype differences can influence social perception in autism. It explored how these mechanisms may contribute to social difficulties experienced by autistic people through the lens of the double empathy problem and second-person neuroscience perspectives.
       </p>
 
       <p>
-      Firstly, I investigated how spoken intentions and visual evidence guide predictive social perception. Across four experiments, results supported a dual-process model whereby top-down expectations shape early perception but are overridden by visual input once motion begins. This led to the 'kinematic dominance hypothesis', suggesting that motion cues dominate perception once movement begins due to their higher precision in predictive social perception.
+      Firstly, I investigated how spoken intentions and visual evidence guide predictive social perception. Across four experiments, results supported a dual-process model whereby top-down expectations shape early perception, but are overridden by visual input once motion begins. This led to the 'kinematic dominance hypothesis', suggesting that motion cues dominate perception once movement begins due to their higher precision in predictive social perception.
       </p>
 
       <p>
-      Secondly, I used high-resolution active motion capture to investigate upper-limb motor coordination in autistic and non-autistic adults. The research examined characteristics of movement including amplitude, acceleration and movement trajectories, alongside within-participant variability. The findings highlighted differences in how movements were performed rather than framing these differences as deficits in ability.
+      Secondly, I used high-resolution active motion capture to investigate upper-limb motor coordination in autistic and non-autistic adults. The research examined characteristics of movement including amplitude, acceleration and movement trajectories, alongside within-participant variability. The findings highlighted differences in how movements were performed and how they related to cognitive profiles, rather than framing these differences as deficits in ability.
       </p>
 
       <p>
-      Finally, I tested the double empathy problem through predictive perception and diagnostic framing. Non-autistic participants altered their perception when told that the actor was autistic, despite viewing identical kinematics. Autistic participants showed more stable perception regardless of actor neurotype. These findings connect predictive perception with the double empathy problem and suggest that some difficulties experienced by autistic people may arise from environmental and relational factors, including how autistic behaviour is interpreted by others.
+      Finally, I tested the double empathy problem through predictive perception and diagnostic framing, building on the notion that communication difficulties are an inter-personal misfortune, not an individual deficit. Non-autistic participants altered their perception when told that the actor was autistic, despite viewing identical kinematics in autistic and non-autistic actors. Autistic participants however showed more stable perception regardless of actor neurotype. These findings connect predictive perception with the double empathy problem and suggest that some difficulties experienced by autistic people may arise from environmental and relational factors, including how autistic behaviour is interpreted/misinterpreted by others.
       </p>
 
     </div>
